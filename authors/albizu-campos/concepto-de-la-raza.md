@@ -5,8 +5,14 @@ date: 1935-10-19
 source: "Publicado en *Pedro Albizu Campos – Obras Escogidas*, Volumen II, pág. 177. Originalmente en *La Palabra*, 19 de octubre de 1935."
 ---
 
-# Concepto de la Raza  
-*Por Pedro Albizu Campos*
+# Concepto de la Raza
+
+**Autor:** Pedro Albizu Campos  
+**Fecha:** 19 de octubre de 1935  
+**Fuente:** *Publicado en* _Pedro Albizu Campos – Obras Escogidas_, Volumen II  
+_Originalmente en_ *La Palabra*, 19 de octubre de 1935.
+
+---
 
 Cuando el Presidente de la República del Plata, Don Hipólito Yrigoyen, instituyó el Día de la Raza, ¿a qué raza se refería el alto magistrado argentino? ¿Esquinaba su concepto, con una rancia predilección, el resto del gran mosaico étnico de América? Referíase el presidente argentino a la raza iberoamericana.
 
