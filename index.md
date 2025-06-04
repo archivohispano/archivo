@@ -15,7 +15,7 @@ This is a digital archive of political, philosophical, and literary writings by 
 
 ## 🌎 Autores destacados / Featured Authors
 
-- 🇵🇷 [Pedro Albizu Campos – *Concepto de la Raza*](./authors/albizu-campos/concepto-de-la-raza)
+- 🇵🇷 [Pedro Albizu Campos – *Concepto de la Raza (1935)*](./authors/albizu-campos/concepto-de-la-raza)
 
 ---
 
