@@ -6,10 +6,10 @@ title: Archivo Hispano / Hispanic Archive
 # 📚 Archivo Hispano / Hispanic Archive
 
 **ESPAÑOL**  
-Este es un archivo digital de escritos políticos, filosóficos y literarios de autores hispanos. Inspirado por marxists.org, está dedicado a preservar las voces revolucionarias y antiimperialistas de América Latina, España y el Caribe.
+Este es un archivo digital de escritos políticos, filosóficos y literarios de autores hispanos. 
 
 **ENGLISH**  
-This is a digital archive of political, philosophical, and literary writings by Hispanic authors. Inspired by marxists.org, it is dedicated to preserving the revolutionary and anti-imperialist voices of Latin America, Spain, and the Caribbean.
+This is a digital archive of political, philosophical, and literary writings by Hispanic authors. 
 
 ---
 
