@@ -5,6 +5,7 @@ author: "Pedro Albizu Campos"
 date: 1935-10-19
 source: "Published in Obras Escogidas, Vol. II, Originally in *La Palabra*, October 19, 1935."
 lang: en
+lang_alt: /archivo/authors/albizu-campos/concepto-de-la-raza
 ---
 
 When the President of the Republic of the Plata, Don Hipólito Yrigoyen, instituted the Day of la Raza, to which race was the Argentine statesman referring? Was his concept, with an old-world bias, excluding the rest of the great ethnic mosaic of the Americas? The Argentine president was referring to the Ibero-American race.
