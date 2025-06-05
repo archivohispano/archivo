@@ -3,6 +3,7 @@ layout: default
 title: Pedro Albizu Campos
 nav_order: 2
 has_children: true
+parent: Inicio / Home
 ---
 
 # Pedro Albizu Campos
