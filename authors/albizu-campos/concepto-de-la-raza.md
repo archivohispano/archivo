@@ -4,6 +4,7 @@ author: "Pedro Albizu Campos"
 date: 1935-10-19
 source: "Publicado en *Pedro Albizu Campos – Obras Escogidas*, Volumen II, pág. 177. Originalmente en *La Palabra*, 19 de octubre de 1935."
 lang: es
+lang_alt: /archivo/authors/albizu-campos/concept-of-race
 ---
 
 # Concepto de la Raza
