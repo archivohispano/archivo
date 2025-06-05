@@ -1,0 +1,25 @@
+{% if page.lang_alt %}
+<p style="text-align: right;">
+  {% if lang == "en" %}
+    <a href="{{ page.lang_alt }}">Ver en español</a>
+  {% else %}
+    <a href="{{ page.lang_alt }}">Read in English</a>
+  {% endif %}
+</p>
+{% endif %}
+
+<h1>{{ page.title }}</h1>
+
+{% if page.author %}
+  <p><strong>{% if lang == "en" %}Author:{% else %}Autor:{% endif %}</strong> {{ page.author }}</p>
+{% endif %}
+
+{% if page.date %}
+  <p><strong>{% if lang == "en" %}Date:{% else %}Fecha:{% endif %}</strong> {{ page.date }}</p>
+{% endif %}
+
+{% if page.source %}
+  <p><strong>{% if lang == "en" %}Source:{% else %}Fuente:{% endif %}</strong> {{ page.source }}</p>
+{% endif %}
+
+<hr>
