@@ -3,7 +3,7 @@ layout: default
 title: "Concept of Race"
 author: "Pedro Albizu Campos"
 date: 1935-10-19
-source: "Published in Obras Escogidas, Vol. II, Originally in *La Palabra*, October 19, 1935.""
+source: "Published in Obras Escogidas, Vol. II, Originally in *La Palabra*, October 19, 1935."
 lang: en
 ---
 
