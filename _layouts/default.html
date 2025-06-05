@@ -1,73 +1,30 @@
 {% assign lang = page.lang | default: 'es' %}
-<!DOCTYPE html>
-<html lang="{{ lang }}">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title }} | {{ site.title }}</title>
-    {{ site.head }}
-  </head>
+---
+layout: just-the-docs
+---
 
-  <body>
-    <a class="skip-to-content" href="#main-content">Skip to content</a>
+{% if page.lang_alt %}
+<p style="text-align: right;">
+  {% if lang == "en" %}
+    <a href="{{ page.lang_alt }}">Ver en español</a>
+  {% else %}
+    <a href="{{ page.lang_alt }}">Read in English</a>
+  {% endif %}
+</p>
+{% endif %}
 
-    <header class="site-header" role="banner">
-      <div class="site-header-content">
-        <a href="{{ '/' | relative_url }}" class="site-title">
-          {% if lang == "en" %}
-            Hispanic Archive
-          {% else %}
-            Archivo Hispano
-          {% endif %}
-        </a>
-      </div>
-    </header>
+<h1>{{ page.title }}</h1>
 
-    <div class="site-content" id="main-content">
-      <main class="page-content" aria-label="Content">
-        <div class="page">
+{% if page.author %}
+  <p><strong>{% if lang == "en" %}Author:{% else %}Autor:{% endif %}</strong> {{ page.author }}</p>
+{% endif %}
 
-          {% if page.lang_alt %}
-            <p style="text-align: right;">
-              {% if lang == "en" %}
-                <a href="{{ page.lang_alt }}">Ver en español</a>
-              {% else %}
-                <a href="{{ page.lang_alt }}">Read in English</a>
-              {% endif %}
-            </p>
-          {% endif %}
+{% if page.date %}
+  <p><strong>{% if lang == "en" %}Date:{% else %}Fecha:{% endif %}</strong> {{ page.date }}</p>
+{% endif %}
 
-          <h1>{{ page.title }}</h1>
+{% if page.source %}
+  <p><strong>{% if lang == "en" %}Source:{% else %}Fuente:{% endif %}</strong> {{ page.source }}</p>
+{% endif %}
 
-          {% if page.author %}
-            <p><strong>{% if lang == "en" %}Author:{% else %}Autor:{% endif %}</strong> {{ page.author }}</p>
-          {% endif %}
-
-          {% if page.date %}
-            <p><strong>{% if lang == "en" %}Date:{% else %}Fecha:{% endif %}</strong> {{ page.date }}</p>
-          {% endif %}
-
-          {% if page.source %}
-            <p><strong>{% if lang == "en" %}Source:{% else %}Fuente:{% endif %}</strong> {{ page.source }}</p>
-          {% endif %}
-
-          <hr>
-
-          {{ content }}
-
-        </div>
-      </main>
-    </div>
-
-    <footer class="site-footer">
-      <p><em>
-        {% if lang == "en" %}
-          A nonprofit digital archive of Hispanic political and literary thought.
-        {% else %}
-          Archivo digital sin fines de lucro del pensamiento político y literario hispano.
-        {% endif %}
-      </em></p>
-    </footer>
-
-  </body>
-</html>
+<hr>
