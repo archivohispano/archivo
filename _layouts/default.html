@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'es' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | Archivo Hispano</title>
+</head>
+<body style="font-family: sans-serif; max-width: 700px; margin: auto; padding: 1rem;">
+
+  <header>
+    <h1><a href="{{ '/' | relative_url }}">
+      {% if page.lang == "en" %}
+        Hispanic Archive
+      {% else %}
+        Archivo Hispano
+      {% endif %}
+    </a></h1>
+    <hr>
+  </header>
+
+  <main>
+    <h2>{{ page.title }}</h2>
+
+    {% if page.author %}
+      <p><strong>
+        {% if page.lang == "en" %}Author:{% else %}Autor:{% endif %}
+      </strong> {{ page.author }}</p>
+    {% endif %}
+
+    {% if page.date %}
+      <p><strong>
+        {% if page.lang == "en" %}Date:{% else %}Fecha:{% endif %}
+      </strong> {{ page.date }}</p>
+    {% endif %}
+
+    {% if page.source %}
+      <p><strong>
+        {% if page.lang == "en" %}Source:{% else %}Fuente:{% endif %}
+      </strong> {{ page.source }}</p>
+    {% endif %}
+
+    <hr>
+
+    {{ content }}
+  </main>
+
+  <footer>
+    <hr>
+    <p><em>
+      {% if page.lang == "en" %}
+        A nonprofit digital archive of Hispanic political and literary thought.
+      {% else %}
+        Archivo digital sin fines de lucro del pensamiento político y literario hispano.
+      {% endif %}
+    </em></p>
+  </footer>
+</body>
+</html>
