@@ -19,6 +19,16 @@
   </header>
 
   <main>
+    {% if page.lang_alt %}
+      <p style="text-align: right;">
+        {% if page.lang == "en" %}
+          <a href="{{ page.lang_alt }}">Ver en español</a>
+        {% else %}
+          <a href="{{ page.lang_alt }}">Read in English</a>
+        {% endif %}
+      </p>
+    {% endif %}
+
     <h2>{{ page.title }}</h2>
 
     {% if page.author %}
@@ -40,7 +50,6 @@
     {% endif %}
 
     <hr>
-
     {{ content }}
   </main>
 
@@ -54,5 +63,6 @@
       {% endif %}
     </em></p>
   </footer>
+
 </body>
 </html>
