@@ -32,6 +32,8 @@ Estructura del Proyecto / Project Structure
 ├── _layouts/        # Plantillas Jekyll / Jekyll templates
 ├── assets/          # CSS, JavaScript, imágenes / CSS, JavaScript, images
 └── _config.yml      # Configuración Jekyll / Jekyll configuration
+
+```
 Contribuir / Contributing
 Aceptamos contribuciones de:
 
