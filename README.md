@@ -43,6 +43,7 @@ Correcciones
 Mejoras técnicas
 
 Ver CONTRIBUTING.md para más detalles.
+
 We accept contributions of:
 
 New texts (public domain)
@@ -51,11 +52,13 @@ Corrections
 Technical improvements
 
 See CONTRIBUTING.md for details.
+
 Licencia / License
 Todo el contenido textual está en dominio público o bajo licencias libres.
 El código del sitio está bajo licencia MIT.
 All textual content is in the public domain or under free licenses.
 The site code is under MIT license.
+
 Contacto / Contact
 
 GitHub Issues: Reportar problemas / Report issues
