@@ -1,4 +1,4 @@
-javascript// Theme Toggle
+// Theme Toggle
 function toggleTheme() {
     const html = document.documentElement;
     const currentTheme = html.getAttribute('data-theme');
@@ -19,19 +19,29 @@ function toggleLanguage() {
     const currentPath = window.location.pathname;
     let newPath = currentPath;
     
+    // Handle different URL patterns
     if (currentPath.includes('/es/')) {
         newPath = currentPath.replace('/es/', '/en/');
     } else if (currentPath.includes('/en/')) {
         newPath = currentPath.replace('/en/', '/es/');
-    } else if (currentPath === '/') {
+    } else if (currentPath === '/' || currentPath === '') {
         // For homepage, just show a message for now
         alert('English version coming soon / Versión en inglés próximamente');
         return;
     }
     
-    // For now, always attempt the redirect
-    // In production, you might want to check if the page exists first
-    window.location.href = newPath;
+    // Check for specific page mappings
+    const pageMappings = {
+        '/es/textos/pedro-albizu-campos/concepto-de-la-raza': '/en/texts/pedro-albizu-campos/concept-of-race',
+        '/en/texts/pedro-albizu-campos/concept-of-race': '/es/textos/pedro-albizu-campos/concepto-de-la-raza'
+    };
+    
+    if (pageMappings[currentPath]) {
+        window.location.href = pageMappings[currentPath];
+    } else {
+        // For other pages, try the simple replacement
+        window.location.href = newPath;
+    }
 }
 
 // Font size control (for text pages)
@@ -48,7 +58,7 @@ function changeFontSize(delta) {
 // Copy link
 function copyLink() {
     navigator.clipboard.writeText(window.location.href);
-    alert('Enlace copiado al portapapeles');
+    alert('Enlace copiado al portapapeles / Link copied to clipboard');
 }
 
 // Download text
