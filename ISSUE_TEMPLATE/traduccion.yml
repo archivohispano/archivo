@@ -1,0 +1,56 @@
+name: Enviar Traducción / Submit Translation
+description: Submit a translation of an existing text
+title: "[TRADUCCIÓN]: "
+labels: ["translation", "needs-review"]
+body:
+  - type: input
+    id: original-text
+    attributes:
+      label: Texto Original / Original Text
+      description: Link to the original text in the archive
+      placeholder: ex. /es/textos/pedro-albizu-campos/concepto-de-la-raza
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: translation-direction
+    attributes:
+      label: Dirección de Traducción / Translation Direction
+      options:
+        - Español → Inglés / Spanish → English
+        - Inglés → Español / English → Spanish
+    validations:
+      required: true
+      
+  - type: input
+    id: translator
+    attributes:
+      label: Traductor(a) / Translator
+      placeholder: Your name or preferred attribution
+    validations:
+      required: true
+      
+  - type: textarea
+    id: translation
+    attributes:
+      label: Traducción Completa / Full Translation
+      description: Pegue la traducción completa aquí / Paste the complete translation here
+      
+  - type: textarea
+    id: translation-notes
+    attributes:
+      label: Notas de Traducción / Translation Notes
+      description: Any clarifications about translation choices
+      placeholder: |
+        Explique decisiones de traducción difíciles
+        Explain difficult translation decisions
+        
+  - type: checkboxes
+    id: translation-declaration
+    attributes:
+      label: Declaración / Declaration
+      options:
+        - label: Esta es mi traducción original / This is my original translation
+          required: true
+        - label: Autorizo su publicación bajo dominio público / I authorize publication under public domain
+          required: true
