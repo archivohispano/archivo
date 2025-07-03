@@ -5,7 +5,7 @@ layout: default
 <header>
     <div class="container">
         <div class="header-content">
-            <a href="/" class="logo">Archivo Digital Hispano</a>
+            <a href="/" class="logo">{% if page.lang == 'en' %}Hispanic Digital Archive{% else %}Archivo Digital Hispano{% endif %}</a>
             <div class="header-controls">
                 <button class="control-btn" onclick="toggleLanguage()">{% if page.lang == 'en' %}Español{% else %}English{% endif %}</button>
                 <button class="control-btn" onclick="toggleTheme()">🌙</button>
