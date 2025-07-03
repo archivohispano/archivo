@@ -1,0 +1,41 @@
+# Site settings
+title: Archivo Digital Hispano
+email: contacto@archivohispano.org
+description: >-
+  Preservando y proporcionando acceso libre a los escritos políticos, 
+  literarios y filosóficos más importantes del mundo hispano.
+baseurl: ""
+url: "https://archivohispano.github.io"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  texts:
+    output: true
+    permalink: /:path
+
+# Defaults
+defaults:
+  - scope:
+      path: "_texts/es"
+    values:
+      lang: "es"
+      layout: "text"
+  - scope:
+      path: "_texts/en"
+    values:
+      lang: "en"
+      layout: "text"
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
