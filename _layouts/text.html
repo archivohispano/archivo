@@ -1,0 +1,113 @@
+---
+layout: default
+---
+
+<header>
+    <div class="container">
+        <div class="header-content">
+            <a href="/" class="logo">Archivo Digital Hispano</a>
+            <div class="header-controls">
+                <button class="control-btn" onclick="toggleLanguage()">English</button>
+                <button class="control-btn" onclick="toggleTheme()">🌙</button>
+                <button class="control-btn" onclick="window.print()">Imprimir</button>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="container">
+    <nav class="breadcrumb">
+        <a href="/">Inicio</a> /
+        <a href="/es/autores">Autores</a> /
+        <a href="/es/autores/{{ page.author }}">{{ page.author_name }}</a> /
+        <span>{{ page.title }}</span>
+    </nav>
+</div>
+
+<main class="content-wrapper">
+    <aside class="sidebar-left">
+        <div class="tool-panel">
+            <h3>Herramientas de Lectura</h3>
+            <div class="reading-controls">
+                <div class="font-size-controls">
+                    <span>Tamaño:</span>
+                    <button onclick="changeFontSize(-1)">A-</button>
+                    <button onclick="changeFontSize(1)">A+</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="tool-panel">
+            <h3>Compartir</h3>
+            <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+                <button class="control-btn" onclick="copyLink()">Copiar enlace</button>
+                <button class="control-btn" onclick="downloadText()">Descargar</button>
+            </div>
+        </div>
+    </aside>
+
+    <article>
+        <div class="text-metadata">
+            <h1 class="text-title">{{ page.title }}</h1>
+            <div class="text-author">
+                por <a href="/es/autores/{{ page.author }}">{{ page.author_name }}</a>
+            </div>
+            <div class="metadata-details">
+                <div class="metadata-item">
+                    <span class="metadata-label">Fecha:</span>
+                    <span>{{ page.date | date: "%-d de %B de %Y" }}</span>
+                </div>
+                <div class="metadata-item">
+                    <span class="metadata-label">Fuente:</span>
+                    <span>{{ page.source_detail }}</span>
+                </div>
+                <div class="metadata-item">
+                    <span class="metadata-label">País:</span>
+                    <span><a href="/es/paises/{{ page.country }}">Puerto Rico</a></span>
+                </div>
+            </div>
+        </div>
+
+        {% if page.lang == "en" and page.translator %}
+        <div class="translation-notice">
+            <strong>Note:</strong> This is a professional translation by {{ page.translator }}{% if page.translation_reviewer %}, reviewed by {{ page.translation_reviewer }}{% endif %}.
+            For the original Spanish text, <a href="{{ page.spanish_version }}">click here</a>.
+        </div>
+        {% endif %}
+
+        <div class="text-content" id="textContent">
+            {{ content }}
+        </div>
+
+        <footer class="text-footer">
+            <p>Este texto es parte del dominio público. Puede ser copiado y distribuido libremente.</p>
+        </footer>
+    </article>
+
+    <aside class="sidebar-right">
+        <div class="tool-panel">
+            <h3>Citar este texto</h3>
+            <div class="citation-box">
+                {{ page.author_name | split: " " | last }}, {{ page.author_name | split: " " | first }}. "{{ page.title }}." <em>Archivo Digital Hispano</em>, {{ page.date | date: "%-d %b. %Y" }}, archivohispano.github.io{{ page.url }}.
+            </div>
+        </div>
+
+        <div class="tool-panel">
+            <h3>Textos relacionados</h3>
+            <ul style="list-style: none; font-size: 0.9rem;">
+                <li style="margin: 0.5rem 0;">
+                    <a href="#" style="color: var(--link-color); text-decoration: none;">→ La Patria es Valor y Sacrificio</a>
+                </li>
+                <li style="margin: 0.5rem 0;">
+                    <a href="#" style="color: var(--link-color); text-decoration: none;">→ El Nacionalismo y el Poder Judicial</a>
+                </li>
+            </ul>
+        </div>
+    </aside>
+</main>
+
+<div class="mobile-text-controls">
+    <button onclick="changeFontSize(-1)">A-</button>
+    <button onclick="changeFontSize(1)">A+</button>
+    <button onclick="toggleTheme()">🌙</button>
+</div>
