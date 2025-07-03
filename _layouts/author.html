@@ -7,7 +7,7 @@ layout: default
         <div class="header-content">
             <a href="/" class="logo">Archivo Digital Hispano</a>
             <div class="header-controls">
-                <button class="control-btn" onclick="toggleLanguage()">English</button>
+                <button class="control-btn" onclick="toggleLanguage()">{% if page.lang == 'en' %}Español{% else %}English{% endif %}</button>
                 <button class="control-btn" onclick="toggleTheme()">🌙</button>
             </div>
         </div>
@@ -16,8 +16,8 @@ layout: default
 
 <div class="container">
     <nav class="breadcrumb">
-        <a href="/">Inicio</a> /
-        <a href="/es/autores">Autores</a> /
+        <a href="/">{% if page.lang == 'en' %}Home{% else %}Inicio{% endif %}</a> /
+        <a href="/{{ page.lang }}/autores">{% if page.lang == 'en' %}Authors{% else %}Autores{% endif %}</a> /
         <span>{{ page.name }}</span>
     </nav>
 </div>
@@ -38,9 +38,9 @@ layout: default
         </div>
 
         <section class="author-texts">
-            <h2>Textos disponibles</h2>
+            <h2>{% if page.lang == 'en' %}Available Texts{% else %}Textos disponibles{% endif %}</h2>
             <div class="text-list">
-                {% assign author_texts = site.texts | where: "author", page.author_id | where: "lang", "es" %}
+                {% assign author_texts = site.texts | where: "author", page.author_id | where: "lang", page.lang %}
                 {% if author_texts.size > 0 %}
                     {% for text in author_texts %}
                     <article class="text-item">
@@ -54,14 +54,14 @@ layout: default
                     </article>
                     {% endfor %}
                 {% else %}
-                    <p class="no-texts">No hay textos disponibles aún.</p>
+                    <p class="no-texts">{% if page.lang == 'en' %}No texts available yet.{% else %}No hay textos disponibles aún.{% endif %}</p>
                 {% endif %}
             </div>
         </section>
 
         {% if page.links %}
         <section class="author-links">
-            <h2>Enlaces externos</h2>
+            <h2>{% if page.lang == 'en' %}External Links{% else %}Enlaces externos{% endif %}</h2>
             <ul>
                 {% for link in page.links %}
                 <li><a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.title }}</a></li>
