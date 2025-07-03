@@ -16,20 +16,22 @@ function toggleTheme() {
 
 // Language Toggle
 function toggleLanguage() {
-    const currentLang = document.documentElement.lang;
-    const newLang = currentLang === 'es' ? 'en' : 'es';
+    const currentPath = window.location.pathname;
+    let newPath = currentPath;
     
-    // This would typically redirect to the other language version
-    if (window.location.pathname.includes('/es/')) {
-        const enPath = window.location.pathname.replace('/es/', '/en/');
-        window.location.href = enPath;
-    } else if (window.location.pathname.includes('/en/')) {
-        const esPath = window.location.pathname.replace('/en/', '/es/');
-        window.location.href = esPath;
-    } else {
-        // For homepage
+    if (currentPath.includes('/es/')) {
+        newPath = currentPath.replace('/es/', '/en/');
+    } else if (currentPath.includes('/en/')) {
+        newPath = currentPath.replace('/en/', '/es/');
+    } else if (currentPath === '/') {
+        // For homepage, just show a message for now
         alert('English version coming soon / Versión en inglés próximamente');
+        return;
     }
+    
+    // For now, always attempt the redirect
+    // In production, you might want to check if the page exists first
+    window.location.href = newPath;
 }
 
 // Font size control (for text pages)
