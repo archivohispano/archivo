@@ -1,0 +1,73 @@
+---
+layout: default
+---
+
+<header>
+    <div class="container">
+        <div class="header-content">
+            <a href="/" class="logo">Archivo Digital Hispano</a>
+            <div class="header-controls">
+                <button class="control-btn" onclick="toggleLanguage()">English</button>
+                <button class="control-btn" onclick="toggleTheme()">🌙</button>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="container">
+    <nav class="breadcrumb">
+        <a href="/">Inicio</a> /
+        <a href="/es/autores">Autores</a> /
+        <span>{{ page.name }}</span>
+    </nav>
+</div>
+
+<main class="author-page">
+    <div class="container">
+        <div class="author-header">
+            <h1>{{ page.name }}</h1>
+            <div class="author-meta">
+                <p class="author-dates">{{ page.birth_date }} - {{ page.death_date }}</p>
+                <p class="author-country">{{ page.country }}</p>
+            </div>
+            {% if page.bio %}
+            <div class="author-bio">
+                {{ page.bio | markdownify }}
+            </div>
+            {% endif %}
+        </div>
+
+        <section class="author-texts">
+            <h2>Textos disponibles</h2>
+            <div class="text-list">
+                {% assign author_texts = site.texts | where: "author", page.author_id | where: "lang", "es" %}
+                {% if author_texts.size > 0 %}
+                    {% for text in author_texts %}
+                    <article class="text-item">
+                        <h3><a href="{{ text.url }}">{{ text.title }}</a></h3>
+                        <div class="text-meta">
+                            <span class="text-date">{{ text.date | date: "%Y" }}</span>
+                            {% if text.source %}
+                            <span class="text-source">{{ text.source }}</span>
+                            {% endif %}
+                        </div>
+                    </article>
+                    {% endfor %}
+                {% else %}
+                    <p class="no-texts">No hay textos disponibles aún.</p>
+                {% endif %}
+            </div>
+        </section>
+
+        {% if page.links %}
+        <section class="author-links">
+            <h2>Enlaces externos</h2>
+            <ul>
+                {% for link in page.links %}
+                <li><a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.title }}</a></li>
+                {% endfor %}
+            </ul>
+        </section>
+        {% endif %}
+    </div>
+</main>
