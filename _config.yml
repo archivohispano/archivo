@@ -18,20 +18,25 @@ plugins:
 collections:
   texts:
     output: true
-    permalink: /:path
+
+# Permalinks
+permalink: pretty
 
 # Defaults
 defaults:
   - scope:
+      path: ""
+      type: "texts"
+    values:
+      layout: "text"
+  - scope:
       path: "_texts/es"
     values:
       lang: "es"
-      layout: "text"
   - scope:
       path: "_texts/en"
     values:
       lang: "en"
-      layout: "text"
 
 # Exclude files
 exclude:
@@ -39,3 +44,4 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENSE
+  - CONTRIBUTING.md
