@@ -5,11 +5,11 @@ layout: default
 <header>
     <div class="container">
         <div class="header-content">
-            <a href="/" class="logo">Archivo Digital Hispano</a>
+            <a href="/" class="logo">{% if page.lang == 'en' %}Hispanic Digital Archive{% else %}Archivo Digital Hispano{% endif %}</a>
             <div class="header-controls">
-                <button class="control-btn" onclick="toggleLanguage()">English</button>
+                <button class="control-btn" onclick="toggleLanguage()">{% if page.lang == 'en' %}Español{% else %}English{% endif %}</button>
                 <button class="control-btn" onclick="toggleTheme()">🌙</button>
-                <button class="control-btn" onclick="window.print()">Imprimir</button>
+                <button class="control-btn" onclick="window.print()">{% if page.lang == 'en' %}Print{% else %}Imprimir{% endif %}</button>
             </div>
         </div>
     </div>
@@ -17,9 +17,9 @@ layout: default
 
 <div class="container">
     <nav class="breadcrumb">
-        <a href="/">Inicio</a> /
-        <a href="/es/autores">Autores</a> /
-        <a href="/es/autores/{{ page.author }}">{{ page.author_name }}</a> /
+        <a href="/">{% if page.lang == 'en' %}Home{% else %}Inicio{% endif %}</a> /
+        <a href="/{{ page.lang }}/autores">{% if page.lang == 'en' %}Authors{% else %}Autores{% endif %}</a> /
+        <a href="/{{ page.lang }}/autores/{{ page.author }}">{{ page.author_name }}</a> /
         <span>{{ page.title }}</span>
     </nav>
 </div>
@@ -27,10 +27,10 @@ layout: default
 <main class="content-wrapper">
     <aside class="sidebar-left">
         <div class="tool-panel">
-            <h3>Herramientas de Lectura</h3>
+            <h3>{% if page.lang == 'en' %}Reading Tools{% else %}Herramientas de Lectura{% endif %}</h3>
             <div class="reading-controls">
                 <div class="font-size-controls">
-                    <span>Tamaño:</span>
+                    <span>{% if page.lang == 'en' %}Size:{% else %}Tamaño:{% endif %}</span>
                     <button onclick="changeFontSize(-1)">A-</button>
                     <button onclick="changeFontSize(1)">A+</button>
                 </div>
@@ -38,10 +38,10 @@ layout: default
         </div>
 
         <div class="tool-panel">
-            <h3>Compartir</h3>
+            <h3>{% if page.lang == 'en' %}Share{% else %}Compartir{% endif %}</h3>
             <div style="display: flex; flex-direction: column; gap: 0.5rem;">
-                <button class="control-btn" onclick="copyLink()">Copiar enlace</button>
-                <button class="control-btn" onclick="downloadText()">Descargar</button>
+                <button class="control-btn" onclick="copyLink()">{% if page.lang == 'en' %}Copy link{% else %}Copiar enlace{% endif %}</button>
+                <button class="control-btn" onclick="downloadText()">{% if page.lang == 'en' %}Download{% else %}Descargar{% endif %}</button>
             </div>
         </div>
     </aside>
@@ -50,27 +50,27 @@ layout: default
         <div class="text-metadata">
             <h1 class="text-title">{{ page.title }}</h1>
             <div class="text-author">
-                por <a href="/es/autores/{{ page.author }}">{{ page.author_name }}</a>
+                {% if page.lang == 'en' %}by{% else %}por{% endif %} <a href="/{{ page.lang }}/autores/{{ page.author }}">{{ page.author_name }}</a>
             </div>
             <div class="metadata-details">
                 <div class="metadata-item">
-                    <span class="metadata-label">Fecha:</span>
+                    <span class="metadata-label">{% if page.lang == 'en' %}Date:{% else %}Fecha:{% endif %}</span>
                     <span>{{ page.date | date: "%-d de %B de %Y" }}</span>
                 </div>
                 <div class="metadata-item">
-                    <span class="metadata-label">Fuente:</span>
+                    <span class="metadata-label">{% if page.lang == 'en' %}Source:{% else %}Fuente:{% endif %}</span>
                     <span>{{ page.source_detail }}</span>
                 </div>
                 <div class="metadata-item">
-                    <span class="metadata-label">País:</span>
-                    <span><a href="/es/paises/{{ page.country }}">Puerto Rico</a></span>
+                    <span class="metadata-label">{% if page.lang == 'en' %}Country:{% else %}País:{% endif %}</span>
+                    <span><a href="/{{ page.lang }}/paises/{{ page.country }}">Puerto Rico</a></span>
                 </div>
             </div>
         </div>
 
         {% if page.lang == "en" and page.translator %}
         <div class="translation-notice">
-            <strong>Note:</strong> This is a professional translation by {{ page.translator }}{% if page.translation_reviewer %}, reviewed by {{ page.translation_reviewer }}{% endif %}.
+            Translation by {{ page.translator }}{% if page.translation_reviewer %}, reviewed by {{ page.translation_reviewer }}{% endif %}.
             For the original Spanish text, <a href="{{ page.spanish_version }}">click here</a>.
         </div>
         {% endif %}
@@ -80,26 +80,23 @@ layout: default
         </div>
 
         <footer class="text-footer">
-            <p>Este texto es parte del dominio público. Puede ser copiado y distribuido libremente.</p>
+            <p>{% if page.lang == 'en' %}This text is in the public domain and may be freely copied and distributed.{% else %}Este texto es parte del dominio público. Puede ser copiado y distribuido libremente.{% endif %}</p>
         </footer>
     </article>
 
     <aside class="sidebar-right">
         <div class="tool-panel">
-            <h3>Citar este texto</h3>
+            <h3>{% if page.lang == 'en' %}Cite this text{% else %}Citar este texto{% endif %}</h3>
             <div class="citation-box">
                 {{ page.author_name | split: " " | last }}, {{ page.author_name | split: " " | first }}. "{{ page.title }}." <em>Archivo Digital Hispano</em>, {{ page.date | date: "%-d %b. %Y" }}, archivohispano.github.io{{ page.url }}.
             </div>
         </div>
 
         <div class="tool-panel">
-            <h3>Textos relacionados</h3>
+            <h3>{% if page.lang == 'en' %}Related texts{% else %}Textos relacionados{% endif %}</h3>
             <ul style="list-style: none; font-size: 0.9rem;">
                 <li style="margin: 0.5rem 0;">
-                    <a href="#" style="color: var(--link-color); text-decoration: none;">→ La Patria es Valor y Sacrificio</a>
-                </li>
-                <li style="margin: 0.5rem 0;">
-                    <a href="#" style="color: var(--link-color); text-decoration: none;">→ El Nacionalismo y el Poder Judicial</a>
+                    <a href="#" style="color: var(--link-color); text-decoration: none;">→ {% if page.lang == 'en' %}Country is Valor and Sacrifice{% else %}La Patria es Valor y Sacrificio{% endif %}</a>
                 </li>
             </ul>
         </div>
