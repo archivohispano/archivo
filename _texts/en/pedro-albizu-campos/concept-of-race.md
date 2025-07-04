@@ -14,8 +14,6 @@ spanish_version: /es/textos/pedro-albizu-campos/concepto-de-la-raza
 collections:
   - puerto-rican-independence
   - puerto-rican-nationalism
-translator: "[Translator name]"
-translation_date: 2025-01-01
 ---
 
 When the President of the Republic of La Plata, Don Hipólito Yrigoyen, instituted the Day of the Race, to which race was the high Argentine magistrate referring? Did his concept, with an antiquated preference, overlook the rest of the great ethnic mosaic of America? The Argentine president was referring to the Ibero-American race.
