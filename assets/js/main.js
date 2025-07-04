@@ -95,13 +95,39 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
     
-    // Simple search functionality (would be replaced by Lunr.js in production)
+    // Basic search functionality
     const searchBox = document.querySelector('#searchBox');
     if (searchBox) {
-        searchBox.addEventListener('input', function(e) {
-            const query = e.target.value.toLowerCase();
-            // In production, this would trigger Lunr.js search
-            console.log('Searching for:', query);
+        searchBox.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                const query = e.target.value.toLowerCase().trim();
+                if (query) {
+                    // Basic search mapping
+                    const searchMappings = {
+                        'pedro albizu campos': '/es/autores/pedro-albizu-campos',
+                        'albizu': '/es/autores/pedro-albizu-campos',
+                        'concepto de la raza': '/es/textos/pedro-albizu-campos/concepto-de-la-raza',
+                        'concept of race': '/en/texts/pedro-albizu-campos/concept-of-race',
+                        'puerto rico': '/es/paises/puerto-rico'
+                    };
+                    
+                    // Check for matches
+                    for (let [term, url] of Object.entries(searchMappings)) {
+                        if (query.includes(term) || term.includes(query)) {
+                            window.location.href = url;
+                            return;
+                        }
+                    }
+                    
+                    // No matches found
+                    alert('No se encontraron resultados para: ' + query + '\nNo results found for: ' + query);
+                } else {
+                    alert('Por favor ingrese un término de búsqueda / Please enter a search term');
+                }
+            }
         });
+        
+        // Add placeholder text animation
+        searchBox.setAttribute('placeholder', 'Buscar autores, textos, o temas... (presione Enter)');
     }
 });
