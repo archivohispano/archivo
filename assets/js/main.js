@@ -19,12 +19,17 @@ function toggleLanguage() {
     const currentPath = window.location.pathname;
     let newPath = currentPath;
     
+    // Remove trailing slash if present
+    if (currentPath.endsWith('/') && currentPath !== '/') {
+        newPath = currentPath.slice(0, -1);
+    }
+    
     // Handle different URL patterns
-    if (currentPath.includes('/es/')) {
-        newPath = currentPath.replace('/es/', '/en/');
-    } else if (currentPath.includes('/en/')) {
-        newPath = currentPath.replace('/en/', '/es/');
-    } else if (currentPath === '/' || currentPath === '') {
+    if (newPath.includes('/es/')) {
+        newPath = newPath.replace('/es/', '/en/');
+    } else if (newPath.includes('/en/')) {
+        newPath = newPath.replace('/en/', '/es/');
+    } else if (newPath === '/' || newPath === '') {
         // For homepage, just show a message for now
         alert('English version coming soon / Versión en inglés próximamente');
         return;
@@ -36,8 +41,8 @@ function toggleLanguage() {
         '/en/texts/pedro-albizu-campos/concept-of-race': '/es/textos/pedro-albizu-campos/concepto-de-la-raza'
     };
     
-    if (pageMappings[currentPath]) {
-        window.location.href = pageMappings[currentPath];
+    if (pageMappings[newPath]) {
+        window.location.href = pageMappings[newPath];
     } else {
         // For other pages, try the simple replacement
         window.location.href = newPath;
