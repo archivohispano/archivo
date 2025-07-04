@@ -64,4 +64,11 @@ body:
         [Pegue el texto completo aquí / Paste the full text here]
     validations:
       required: true
-    
+      
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Confirmación / Confirmation
+      options:
+        - label: Confirmo que este texto es de dominio público / I confirm this text is in the public domain
+          required: true
