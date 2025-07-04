@@ -1,56 +1,67 @@
-name: Enviar Traducción / Submit Translation
-description: Submit a translation of an existing text
-title: "[TRADUCCIÓN]: "
-labels: ["translation", "needs-review"]
+name: Proponer Nuevo Texto / Submit New Text
+description: Suggest a text to add to the archive
+title: "[TEXTO]: "
+labels: ["nuevo-texto", "awaiting-review"]
 body:
-  - type: input
-    id: original-text
+  - type: markdown
     attributes:
-      label: Texto Original / Original Text
-      description: Link to the original text in the archive
-      placeholder: ex. /es/textos/pedro-albizu-campos/concepto-de-la-raza
+      value: |
+        Gracias por contribuir al Archivo Digital Hispano! / Thank you for contributing!
+        
+        Por favor proporcione el texto completo en el campo de abajo, junto con la información básica.
+        Please provide the full text in the field below, along with basic information.
+        
+  - type: input
+    id: title
+    attributes:
+      label: Título del Texto / Text Title
+      placeholder: ex. Concepto de la Raza
+    validations:
+      required: true
+      
+  - type: input
+    id: author
+    attributes:
+      label: Autor / Author
+      placeholder: ex. Pedro Albizu Campos
+    validations:
+      required: true
+      
+  - type: input
+    id: date
+    attributes:
+      label: Fecha / Date
+      description: Use formato YYYY-MM-DD si es posible / Use YYYY-MM-DD format if possible
+      placeholder: ex. 1935-10-19
+    validations:
+      required: true
+      
+  - type: input
+    id: source
+    attributes:
+      label: Fuente / Source
+      description: Publicación original / Original publication
+      placeholder: ex. La Palabra
     validations:
       required: true
       
   - type: dropdown
-    id: translation-direction
+    id: language
     attributes:
-      label: Dirección de Traducción / Translation Direction
+      label: Idioma / Language
       options:
-        - Español → Inglés / Spanish → English
-        - Inglés → Español / English → Spanish
-    validations:
-      required: true
-      
-  - type: input
-    id: translator
-    attributes:
-      label: Traductor(a) / Translator
-      placeholder: Your name or preferred attribution
+        - Español / Spanish
+        - Inglés / English
     validations:
       required: true
       
   - type: textarea
-    id: translation
+    id: text-content
     attributes:
-      label: Traducción Completa / Full Translation
-      description: Pegue la traducción completa aquí / Paste the complete translation here
-      
-  - type: textarea
-    id: translation-notes
-    attributes:
-      label: Notas de Traducción / Translation Notes
-      description: Any clarifications about translation choices
+      label: Texto Completo / Full Text
+      description: Pegue el texto completo aquí / Paste the complete text here
       placeholder: |
-        Explique decisiones de traducción difíciles
-        Explain difficult translation decisions
-        
-  - type: checkboxes
-    id: translation-declaration
-    attributes:
-      label: Declaración / Declaration
-      options:
-        - label: Esta es mi traducción original / This is my original translation
-          required: true
-        - label: Autorizo su publicación bajo dominio público / I authorize publication under public domain
-          required: true
+        [Pegue el texto completo aquí / Paste the full text here]
+    validations:
+      required: true
+    
