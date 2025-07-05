@@ -35,18 +35,15 @@ function toggleLanguage() {
         return;
     }
     
-    // Check for specific page mappings
-    const pageMappings = {
-        '/es/textos/pedro-albizu-campos/concepto-de-la-raza': '/en/texts/pedro-albizu-campos/concept-of-race',
-        '/en/texts/pedro-albizu-campos/concept-of-race': '/es/textos/pedro-albizu-campos/concepto-de-la-raza'
-    };
-    
-    if (pageMappings[newPath]) {
-        window.location.href = pageMappings[newPath];
-    } else {
-        // For other pages, try the simple replacement
-        window.location.href = newPath;
+    // Check for specific page mappings - need to handle the /textos/ to /texts/ change
+    if (newPath.includes('/es/textos/')) {
+        newPath = newPath.replace('/es/textos/', '/en/texts/');
+    } else if (newPath.includes('/en/texts/')) {
+        newPath = newPath.replace('/en/texts/', '/es/textos/');
     }
+    
+    // Direct to the new path
+    window.location.href = newPath;
 }
 
 // Font size control (for text pages)
