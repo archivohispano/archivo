@@ -24,26 +24,32 @@ function toggleLanguage() {
         newPath = currentPath.slice(0, -1);
     }
     
-    // Handle different URL patterns
-    if (newPath.includes('/es/')) {
-        newPath = newPath.replace('/es/', '/en/');
-    } else if (newPath.includes('/en/')) {
-        newPath = newPath.replace('/en/', '/es/');
-    } else if (newPath === '/' || newPath === '') {
-        // For homepage, just show a message for now
+    // Specific mappings for texts that have different URLs
+    const pathMappings = {
+        '/es/textos/pedro-albizu-campos/concepto-de-la-raza': '/en/texts/pedro-albizu-campos/concept-of-race',
+        '/en/texts/pedro-albizu-campos/concept-of-race': '/es/textos/pedro-albizu-campos/concepto-de-la-raza',
+        '/es/autores/pedro-albizu-campos': '/en/autores/pedro-albizu-campos',
+        '/en/autores/pedro-albizu-campos': '/es/autores/pedro-albizu-campos',
+        '/es/autores': '/en/autores',
+        '/en/autores': '/es/autores',
+        '/es/paises/puerto-rico': '/en/paises/puerto-rico',
+        '/en/paises/puerto-rico': '/es/paises/puerto-rico'
+    };
+    
+    // Check if current path has a specific mapping
+    if (pathMappings[newPath]) {
+        window.location.href = pathMappings[newPath];
+        return;
+    }
+    
+    // For homepage
+    if (newPath === '/' || newPath === '') {
         alert('English version coming soon / Versión en inglés próximamente');
         return;
     }
     
-    // Check for specific page mappings - need to handle the /textos/ to /texts/ change
-    if (newPath.includes('/es/textos/')) {
-        newPath = newPath.replace('/es/textos/', '/en/texts/');
-    } else if (newPath.includes('/en/texts/')) {
-        newPath = newPath.replace('/en/texts/', '/es/textos/');
-    }
-    
-    // Direct to the new path
-    window.location.href = newPath;
+    // If no specific mapping found, show an alert
+    alert('Translation not available for this page / Traducción no disponible para esta página');
 }
 
 // Font size control (for text pages)
