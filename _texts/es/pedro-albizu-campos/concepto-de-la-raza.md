@@ -15,7 +15,7 @@ collections:
   - nacionalismo-puertorriqueno
 ---
 
-Cuando el Presidente de la República del Plata, Don Hipólito Yrigoyen, instituyó el Día de la Raza, ¿a qué raza se refería el alto magistrado argentino? ¿Esquinaba su concepto, con una rancia predilección, el resto del gran mosaico étnico de América? Referíase el presidente argentino a la raza iberoamericana.
+Cuando el Presidente de la República de la Plata, Don Hipólito Yrigoyen, instituyó el Día de la Raza, ¿a qué raza se refería el alto magistrado argentino? ¿Esquinaba su concepto, con una rancia predilección, el resto del gran mosaico étnico de América? Referíase el presidente argentino a la raza iberoamericana.
 
 Para nosotros la raza nada tiene que ver con la biología. Ni tez lunada, ni cabello hervido, ni oblicuidad de ojo. Raza es una perpetuidad de virtudes y de instituciones características. Nos distinguimos por nuestra cultura, por nuestro valor, por nuestra hidalguía, por nuestro sentido católico de la civilización.
 
