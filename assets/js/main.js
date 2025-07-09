@@ -31,6 +31,8 @@ function toggleLanguage() {
         '/en/texts/pedro-albizu-campos/concept-of-race': '/es/textos/pedro-albizu-campos/concepto-de-la-raza',
         '/es/autores/pedro-albizu-campos': '/en/autores/pedro-albizu-campos',
         '/en/autores/pedro-albizu-campos': '/es/autores/pedro-albizu-campos',
+        '/es/textos/pedro-albizu-campos/dia-de-la-raza-1948': '/en/texts/pedro-albizu-campos/day-of-the-race-1948',
+        '/en/texts/pedro-albizu-campos/day-of-the-race-1948': '/es/textos/pedro-albizu-campos/dia-de-la-raza-1948',
         
         // Juan Antonio Corretjer
         '/es/autores/juan-antonio-corretjer': '/en/autores/juan-antonio-corretjer',
