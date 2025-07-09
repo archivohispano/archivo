@@ -26,18 +26,25 @@ function toggleLanguage() {
     
     // Specific mappings for texts that have different URLs
     const pathMappings = {
+        // Albizu Campos
         '/es/textos/pedro-albizu-campos/concepto-de-la-raza': '/en/texts/pedro-albizu-campos/concept-of-race',
         '/en/texts/pedro-albizu-campos/concept-of-race': '/es/textos/pedro-albizu-campos/concepto-de-la-raza',
         '/es/autores/pedro-albizu-campos': '/en/autores/pedro-albizu-campos',
         '/en/autores/pedro-albizu-campos': '/es/autores/pedro-albizu-campos',
-        '/es/autores': '/en/autores',
-        '/en/autores': '/es/autores',
-        '/es/paises/puerto-rico': '/en/paises/puerto-rico',
-        '/en/paises/puerto-rico': '/es/paises/puerto-rico'
+        
+        // Juan Antonio Corretjer
         '/es/autores/juan-antonio-corretjer': '/en/autores/juan-antonio-corretjer',
         '/en/autores/juan-antonio-corretjer': '/es/autores/juan-antonio-corretjer',
         '/es/textos/juan-antonio-corretjer/prolegomenos-unidad-nacional': '/en/texts/juan-antonio-corretjer/prolegomena-national-unity',
         '/en/texts/juan-antonio-corretjer/prolegomena-national-unity': '/es/textos/juan-antonio-corretjer/prolegomenos-unidad-nacional',
+        
+        // General pages
+        '/es/autores': '/en/autores',
+        '/en/autores': '/es/autores',
+        '/es/paises': '/en/paises',
+        '/en/paises': '/es/paises',
+        '/es/paises/puerto-rico': '/en/paises/puerto-rico',
+        '/en/paises/puerto-rico': '/es/paises/puerto-rico'
     };
     
     // Check if current path has a specific mapping
