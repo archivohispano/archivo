@@ -34,6 +34,10 @@ function toggleLanguage() {
         '/en/autores': '/es/autores',
         '/es/paises/puerto-rico': '/en/paises/puerto-rico',
         '/en/paises/puerto-rico': '/es/paises/puerto-rico'
+        '/es/autores/juan-antonio-corretjer': '/en/autores/juan-antonio-corretjer',
+        '/en/autores/juan-antonio-corretjer': '/es/autores/juan-antonio-corretjer',
+        '/es/textos/juan-antonio-corretjer/prolegomenos-unidad-nacional': '/en/texts/juan-antonio-corretjer/prolegomena-national-unity',
+        '/en/texts/juan-antonio-corretjer/prolegomena-national-unity': '/es/textos/juan-antonio-corretjer/prolegomenos-unidad-nacional',
     };
     
     // Check if current path has a specific mapping
