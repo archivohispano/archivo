@@ -22,77 +22,64 @@ video_url: https://www.youtube.com/watch?v=AnqKZuanRtI
 </div>
 <p style="text-align: center; margin-top: 1rem; font-style: italic; opacity: 0.8;">Video del discurso original</p>
 
-Nosotros no podemos concebir esta fecha sin pensar en la oración que vino con Don Cristóbal Colón, sin pensar en el Ave María que nos llegó con Don Cristóbal Colón, sin pensar en el Padre Nuestro que nos llegó con Don Cristóbal Colón, sin pensar en el Rosario.
-El Rosario que nos legaron nuestros abuelos y que nos enseñaron a rezar nuestras madres y que nuestras esposas y nuestras hijas repiten con nosotros para simbolizar la eternidad de una raza, la eternidad de todo lo noble del espíritu humano, en el anhelo supremo de vivir toda la pureza y toda la perfección del Todopoderoso.
+Nosotros no podemos concebir esta fecha sin pensar en la oración que vino con Don Cristóbal Colón, sin pensar en el Ave María que nos llegó con Don Cristóbal Colón, sin pensar en el Padre Nuestro que nos llegó con Don Cristóbal Colón, sin pensar en el Rosario. El Rosario que nos legaron nuestros abuelos y que nos enseñaron a rezar nuestras madres y que nuestras esposas y nuestras hijas repiten con nosotros para simbolizar la eternidad de una raza, la eternidad de todo lo noble del espíritu humano, en el anhelo supremo de vivir toda la pureza y toda la perfección del Todopoderoso.
+
 Abrimos al mundo en el 12 de octubre, al intercambio de todos los anhelos del espíritu, del amor y de la sabiduría y de la belleza.
-Se ha luchado en cuatro siglos de toda la incomprensión del hombre, de entre la incomprensión que lleva todo ser humano entre sí, de entre la contradicción con que se nace, o sea, entre la lucha del mal y el bien en el individuo y la lucha del mal y el bien en las sociedades y la lucha del mal y el bien en el concierto de las naciones.
-Cuatro siglos de sangre.
+
+Se ha luchado en cuatro siglos de toda la incomprensión del hombre, de entre la incomprensión que lleva todo ser humano entre sí, de entre la contradicción con que se nace, o sea, entre la lucha del mal y el bien en el individuo y la lucha del mal y el bien en las sociedades y la lucha del mal y el bien en el concierto de las naciones. Cuatro siglos de sangre.
+
 El hombre no parece todavía haber entrado perfectamente en la gran significación del 12 de octubre.
+
 Todavía el hombre no sabe lo que quiere decir el estandarte que entró al Nuevo Mundo y que se simboliza en el gran escudo de Puerto Rico.
+
 Es el estandarte de San Juan el Bautista. ¡Es el estandarte de San Juan el Bautista!
+
 Es el estandarte del Cordero Manso, el estandarte de la humildad, es el estandarte que simboliza el Cristo Nazareno, descansando sobre la sabiduría de las Sagradas Escrituras.
-Para mí, nuestro escudo, de todos los escudos de la tierra, simboliza el 12 de octubre.
-Y tiene en él toda la lección, toda la inspiración que nos derivamos tanto del pasado como la inspiración que necesitamos para sobrevivir todo el porvenir.
-Es San Juan el Bautista, el precursor del Cristo.
-Y su estandarte es el estandarte que nos llega a nosotros como nacionalidad.
-Es el estandarte con que nos erguimos en el planeta al llegar el planeta a su unidad.
-Y es el estandarte en que cuando la humanidad entra hacia la luna, es el estandarte que se enarbola y que se levanta sobre nuestros cielos.
-Aquí está todavía el cuadro doloroso de la lucha del mal y el bien.
-Muchas naciones están todavía en esa lucha terrible en África, Asia, Europa, Norte y Suramérica.
-La humanidad entera todavía está estremecida por la lucha del mal y el bien.
-El mal y el bien no tienen fronteras.
+
+Para mí, nuestro escudo, de todos los escudos de la tierra, simboliza el 12 de octubre. Y tiene en él toda la lección, toda la inspiración que nos derivamos tanto del pasado como la inspiración que necesitamos para sobrevivir todo el porvenir.
+
+Es San Juan el Bautista, el precursor del Cristo. Y su estandarte es el estandarte que nos llega a nosotros como nacionalidad. Es el estandarte con que nos erguimos en el planeta al llegar el planeta a su unidad. Y es el estandarte en que cuando la humanidad entra hacia la luna, es el estandarte que se enarbola y que se levanta sobre nuestros cielos.
+
+Aquí está todavía el cuadro doloroso de la lucha del mal y el bien. Muchas naciones están todavía en esa lucha terrible en África, Asia, Europa, Norte y Suramérica.
+
+La humanidad entera todavía está estremecida por la lucha del mal y el bien. ¡El mal y el bien no tienen fronteras!
+
 Y nosotros, en este día de justicia nazarena, tenemos que decir que el mal no tiene fronteras, que no es ni de raza, ni es de nacionalidad, sino que el mal está arraigado en la naturaleza humana y que hay que arrancarlo de cuajo donde quiera que se presente, porque en nosotros se fractura el ser por el punto más débil.
-El cuerpo está enfermo si el meñique está enfermo.
-El cuerpo no puede ser poderoso si el pie está fallando.
-Y no puede haber nada bueno en la tierra mientras siga— exista un pueblo malvado sobre la faz de ella.
-Y nosotros tenemos que levantarnos con ese estandarte de la salvación del mundo, frente a todo el mal que nos viene de dentro y de fuera.
-El mal que viene de los nuestros y el mal que viene de los de fuera.
-Tenemos que cerrar fila para detener y ahogar en los profundos mares que sirven de protección a la santa tierra que la Providencia nos dio para detener el avance de toda horda de barbarie que quiera desembocar en nuestras playas.
-Este es un día sagrado de invocación de los valores eternos para la humanidad.
-Y nosotros tenemos que aquí, en este día santo, recordar que ese descubrimiento no fue para ningún fin egoísta, sino para el levantamiento grande de la humanidad entera.
-Y el que decretó el Día de la Raza, don Hipólito Yrigoyen, dijo esto de la Argentina.
-Dijo que la Argentina era para todos los hombres de la tierra.
-Otros dijeron que América para los americanos.
-No, él dijo la Argentina, la América, la Argentina para todos los hombres de la tierra.
-Nosotros tenemos un territorio rico y grande y hermoso.
-Tenemos un tesoro que Dios nos legó y podemos compartir su grandeza y su belleza con todos los seres de la tierra.
-Nosotros tenemos que detener en nuestro seno todo egoísmo bastardo.
-Tenemos que detener en nuestro seno ese deseo de especular con el extranjero que venga a nuestras playas.
-Tenemos que detener en nuestro seno un mal que va creciendo.
-Y es ese mal que se llama hoy el turismo.
-El mal del turismo, que quieren presentarlo como una gran industria.
-El mal de traer— hacer de nuestra patria la desembocadura de todos los vicios y de todas las vilezas, de todos los hombres y las mujeres que no han nacido en Puerto Rico.
-Y hacer de los puertorriqueños un grupo de mendigos tendiendo la mano para que un extranjero vicioso le arroje un peso a la mano del miserable.
-No, en buena hora invitemos a nuestra patria a toda la humanidad sana, a todos los sabios, a todos los artistas, a todos los pensadores, a todos los que crean en el mundo, a todos los humildes que quieren laborar por el bien de nuestra patria y por el hecho de ser forasteros, darle la hospitalidad libre, nuestra generosa y noble de nosotros.
-No fijarles precios alzados. Les ruego que no fumen delante de mí, que me hace un mal terrible.
-Brindarles, si los precios son altos, hacer precios especiales para el que viene aquí de buena fe.
-Precios más bajos, precios razonables.
-Que no parezcamos nosotros una partida de timadores.
-Los timadores no han escrito historia, nada más que historia de vileza.
-Los timadores dejémoslos para los yanquis, para los déspotas extranjeros, para los piratas que quieren corromper nuestra nacionalidad.
-Que vengan aquí a gozar libremente, sin costo, nuestra hospitalidad, todos los humildes, nobles y santos del mundo, en el espíritu del cristianismo que hemos formado nuestra nacionalidad.
-Pero detengamos y ahoguemos en el mar todos los vicios que nos vengan de afuera.
-Todo ese egoísmo, todo ese instinto de robo, todo ese instinto de deshonra, toda esa falta de pudor y de vergüenza que viene del norte de Estados Unidos.
-Levantémonos sobre todos nuestros propios vicios.
-Nosotros no somos inmortales ni divinos.
-Y tenemos que aquí en Ponce, aquí donde el enemigo sembró toda su corrupción, yo puedo decirlo con autoridad porque yo me levanté y me crié aquí.
-Y no falto a la verdad que aquí hay que hacer la lucha de la depuración.
-Aquí hay miles y miles en esta tarde, quizá la multitud más grande que se ha congregado por muchos años en Ponce, a quien tengo el honor de dirigirme en esta tarde.
-Y con lo que hay presente, se puede hacer no solamente la emancipación de Puerto Rico, sino la emancipación del planeta, si tenemos aquí el espíritu de valor y de sacrificio.
-Tenemos aquí, mis queridos hermanos, que ir a la restitución de los valores que nos trajeron a la existencia como grandes pueblos y hacerlo portaestandartes de la humanidad entera.
-No en vano fue que Sebastián Elcano dio la vuelta alrededor del mundo.
-Fue el primero en navegar el mundo.
-No en vano fue que todas esas hazañas que siguieron a Don Cristóbal Colón, la apertura del Atlántico, la apertura del Pacífico, la apertura de la Oceanía, la apertura de los polos.
-Cuando hombres y mujeres se mantenían atónitos esperando las cartas, las crónicas de viaje que parecían fantásticos aquellos viajes, ya lo creo que eran fantásticos, de la grandeza, de las epopeyas, de aquellos hombres y aquellas mujeres que no respetaban ninguna de las limitaciones del mar, ni ningunas limitaciones que el hombre había creído que lo hacía presa en la tierra.
+
+El cuerpo está enfermo si el meñique está enfermo. El cuerpo no puede ser poderoso si el pie está fallando.
+
+Y no puede haber nada bueno en la tierra mientras exista un pueblo malvado sobre la faz de ella.
+
+Y nosotros tenemos que levantarnos con ese estandarte de la salvación del mundo, frente a todo el mal que nos viene de dentro y de fuera. El mal que viene de los nuestros y el mal que viene de los de fuera. Tenemos que cerrar fila para detener y ahogar en los profundos mares que sirven de protección a la santa tierra que la Providencia nos dio para detener el avance de toda horda de barbarie que quiera desembocar en nuestras playas.
+
+Este es un día sagrado de invocación de los valores eternos para la humanidad. Y nosotros tenemos que aquí, en este día santo, recordar que ese descubrimiento no fue para ningún fin egoísta, sino para el levantamiento grande de la humanidad entera.
+
+Y el que decretó el Día de la Raza, don Hipólito Yrigoyen, dijo esto de la Argentina. Dijo que la Argentina era para todos los hombres de la tierra. Otros dijeron que América para los americanos. No, él dijo la Argentina, la América, la Argentina para todos los hombres de la tierra.
+
+Nosotros tenemos un territorio rico y grande y hermoso. Tenemos un tesoro que Dios nos legó y podemos compartir su grandeza y su belleza con todos los seres de la tierra. Nosotros tenemos que detener en nuestro seno todo egoísmo bastardo. Tenemos que detener en nuestro seno ese deseo de especular con el extranjero que venga a nuestras playas. Tenemos que detener en nuestro seno un mal que va creciendo.
+
+Y es ese mal que se llama hoy el turismo. El mal del turismo, que quieren presentarlo como una gran industria. El mal de traer— hacer de nuestra patria la desembocadura de todos los vicios y de todas las vilezas, de todos los hombres y las mujeres que no han nacido en Puerto Rico. Y hacer de los puertorriqueños un grupo de mendigos tendiendo la mano para que un extranjero vicioso le arroje un peso a la mano del miserable.
+
+No, en buena hora invitemos a nuestra patria a toda la humanidad sana, a todos los sabios, a todos los artistas, a todos los pensadores, a todos los que crean en el mundo, a todos los humildes que quieren laborar por el bien de nuestra patria y por el hecho de ser forasteros, darle la hospitalidad libre, nuestra generosa y noble de nosotros. No fijarles precios alzados. Les ruego que no fumen delante de mí, que me hace un mal terrible. Brindarles, si los precios son altos, hacer precios especiales para el que viene aquí de buena fe.
+
+Precios más bajos, precios razonables. Que no parezcamos nosotros una partida de timadores.
+
+Los timadores no han escrito historia, nada más que historia de vileza. Los timadores dejémoslos para los yanquis, para los déspotas extranjeros, para los piratas que quieren corromper nuestra nacionalidad. Que vengan aquí a gozar libremente, sin costo, nuestra hospitalidad, todos los humildes, nobles y santos del mundo, en el espíritu del cristianismo que hemos formado nuestra nacionalidad. Pero detengamos y ahoguemos en el mar todos los vicios que nos vengan de afuera.
+
+Todo ese egoísmo, todo ese instinto de robo, todo ese instinto de deshonra, toda esa falta de pudor y de vergüenza que viene del norte de Estados Unidos. Levantémonos sobre todos nuestros propios vicios. Nosotros no somos inmortales ni divinos. Y tenemos que aquí en Ponce, aquí donde el enemigo sembró toda su corrupción, yo puedo decirlo con autoridad porque yo me levanté y me crié aquí. Y no falto a la verdad que aquí hay que hacer la lucha de la depuración.
+
+Aquí hay miles y miles en esta tarde, quizá la multitud más grande que se ha congregado por muchos años en Ponce, a quien tengo el honor de dirigirme en esta tarde. Y con lo que hay presente, se puede hacer no solamente la emancipación de Puerto Rico, sino la emancipación del planeta, si tenemos aquí el espíritu de valor y de sacrificio. Tenemos aquí, mis queridos hermanos, que ir a la restitución de los valores que nos trajeron a la existencia como grandes pueblos y hacerlo portaestandartes de la humanidad entera.
+
+No en vano fue que Sebastián Elcano dio la vuelta alrededor del mundo. Fue el primero en navegar el mundo. No en vano fue que todas esas hazañas que siguieron a Don Cristóbal Colón, la apertura del Atlántico, la apertura del Pacífico, la apertura de la Oceanía, la apertura de los polos. Cuando hombres y mujeres se mantenían atónitos esperando las cartas, las crónicas de viaje que parecían fantásticos aquellos viajes, ya lo creo que eran fantásticos, de la grandeza, de las epopeyas, de aquellos hombres y aquellas mujeres que no respetaban ninguna de las limitaciones del mar, ni ningunas limitaciones que el hombre había creído que lo hacía presa en la tierra.
+
 Y ese espíritu hay que reconstruirlo, depurarlo, purificarlo y santificarlo para que nosotros volvamos otra vez a ser los portaestandartes que dirijamos a la humanidad entera, que bien hoy necesita del estandarte nuestro, del espíritu de hidalguía, de caballerosidad, de integridad, de honradez, de nobleza y de humanidad que nos caracteriza.
+
 Está escrito en todos los pensadores contemporáneos que la humanidad está enferma. Y los que se sienten más fuertes son los que se sienten más enfermos.
-Los yanquis, con todo su oro, los yanquis, con su bomba atómica, se sienten temblar.
-Se sienten temblar.
-No saben que todo el piso está trepidando a sus pies.
-Se sienten un abismo.
-Se sienten lentos en el espacio.
-Se siente que la bomba atómica es el símbolo de su desaparición.
-¿Por qué?
+
+Los yanquis, con todo su oro, los yanquis, con su bomba atómica, se sienten temblar. Se sienten temblar.
+
+No saben que todo el piso está trepidando a sus pies. Se sienten un abismo. Se sienten lentos en el espacio. Se siente que la bomba atómica es el símbolo de su desaparición. ¿Por qué?
+
 Porque ellos han ido gradualmente queriendo ser listos, queriendo jugar el doble juego, de hablar en palabras de la grandeza humana y de ejecutar en hechos la vileza concebible por todos los hombres.
 Se le han agotado las palabras, porque su vileza de hecho ha destruido todos sus libros y ha destruido para ellos la significación misma de la Biblia, la significación misma de las Sagradas Escrituras, que la Biblia en sus manos es un bloque de cemento que cae sobre la tierra para destruirla.
 Ellos se sienten temblar, como nos sentiríamos temblar nosotros y como debemos sentirnos nosotros, temblar cuando tengamos un poder en la mano.
