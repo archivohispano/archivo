@@ -80,78 +80,55 @@ Los yanquis, con todo su oro, los yanquis, con su bomba atómica, se sienten tem
 
 No saben que todo el piso está trepidando a sus pies. Se sienten un abismo. Se sienten lentos en el espacio. Se siente que la bomba atómica es el símbolo de su desaparición. ¿Por qué?
 
-Porque ellos han ido gradualmente queriendo ser listos, queriendo jugar el doble juego, de hablar en palabras de la grandeza humana y de ejecutar en hechos la vileza concebible por todos los hombres.
-Se le han agotado las palabras, porque su vileza de hecho ha destruido todos sus libros y ha destruido para ellos la significación misma de la Biblia, la significación misma de las Sagradas Escrituras, que la Biblia en sus manos es un bloque de cemento que cae sobre la tierra para destruirla.
-Ellos se sienten temblar, como nos sentiríamos temblar nosotros y como debemos sentirnos nosotros, temblar cuando tengamos un poder en la mano.
-Todo el que tiene un poder en la mano debe invocar una suprema humildad secreta.
-La soberbia es la perdición de los hombres, del individuo, de una sociedad y de una nación y de la humanidad entera.
-Hay que invocar esa humildad secreta y pedirle al Todopoderoso que nos haga dignos de la misión que nos ha colocado en la tierra, que serviremos al pie de la letra al valor y el sacrificio.
-He dicho varias veces que la caída de un individuo, que se va a caer es el momento en que se desploma, cuando descansa solamente en su riqueza material o en su poder físico.
-No es el poder físico o la riqueza material lo que nos sostiene en la tierra.
-Es esa humildad nazarena, esa humildad nazarena, esa humildad nazarena que nos da a nosotros el privilegio de recibir la gracia del espíritu, de sentir, aunque sea con la mente, la llegada del Espíritu Santo sobre nosotros.
-El derrumbe de los imperios. Ahí está Alemania, ahí está el Japón, ahí está el Japón.
-El derrumbe de los imperios es cuando sus directores, creyendo que sus cañones, creyendo que sus bombas atómicas, creyendo que su fuerza material, que su oro es el poder en la tierra. No.
+Porque ellos han ido gradualmente queriendo ser listos, queriendo jugar el doble juego, de hablar en palabras de la grandeza humana y de ejecutar en hechos la vileza concebible por todos los hombres. Se le han agotado las palabras, porque su vileza de hecho ha destruido todos sus libros y ha destruido para ellos la significación misma de la Biblia, la significación misma de las Sagradas Escrituras, que la Biblia en sus manos es un bloque de cemento que cae sobre la tierra para destruirla.
+
+Ellos se sienten temblar, como nos sentiríamos temblar nosotros y como debemos sentirnos nosotros, temblar cuando tengamos un poder en la mano. Todo el que tiene un poder en la mano debe invocar una suprema humildad secreta. La soberbia es la perdición de los hombres, del individuo, de una sociedad y de una nación y de la humanidad entera. Hay que invocar esa humildad secreta y pedirle al Todopoderoso que nos haga dignos de la misión que nos ha colocado en la tierra, que serviremos al pie de la letra al valor y el sacrificio.
+
+He dicho varias veces que la caída de un individuo, que se va a caer es el momento en que se desploma, cuando descansa solamente en su riqueza material o en su poder físico. No es el poder físico o la riqueza material lo que nos sostiene en la tierra. Es esa humildad nazarena, esa humildad nazarena, esa humildad nazarena que nos da a nosotros el privilegio de recibir la gracia del espíritu, de sentir, aunque sea con la mente, la llegada del Espíritu Santo sobre nosotros.
+
+El derrumbe de los imperios. Ahí está Alemania, ahí está el Japón, ahí está el Japón. El derrumbe de los imperios es cuando sus directores, creyendo que sus cañones, creyendo que sus bombas atómicas, creyendo que su fuerza material, que su oro es el poder en la tierra. No.
+
 El oro, el oro siempre estuvo en la tierra, el oro nunca salió de la tierra, el oro siempre se ha quedado. Toda la riqueza del petróleo, el uranio, el radium, todo eso está en la tierra y seguirá en la tierra, y no habrá hombre que se lo lleve para otra parte, porque la tierra es de la tierra, porque hasta sus huesos volverán a la tierra.
 Que la propiedad nos llegue a nosotros, que la propiedad nos llegue a nosotros, ¿para qué?
-Para siempre que tengamos un modo, un método de gozar los bienes terrestres.
-Pero eso no es una cuestión personal.
-La propiedad privada no se puede concebir nada más que como un medio de distribución de la propiedad colectiva.
-Que los bienes de la tierra son de los humildes, que los bienes de la tierra son de todos los seres del mundo y que todos los seres del mundo son nuestros hermanos en la carne y en el espíritu.
-No se puede concebir una nueva sociedad en el mundo sin ese espíritu, sin ese desprendimiento y sin esa liberación de la doctrina de la fuerza.
-Si nosotros creemos solamente en la fuerza bruta, no podríamos levantarnos contra la fuerza bruta.
-Si Albizu Campos creyera en la fuerza bruta, no levantaría bandera contra el despotismo de los Estados Unidos.
-Son muchos los brutos en el planeta. Hay los culebrones, hay los cuadrúpedos, hay las aves de rapiña, todos son brutos.
-Hay los que se creen ser hombres, son bestias.
-No, hay algo más grande en el hombre y es la fuerza de su espíritu. Y es el reflejo de la divinidad en él, con la comprensión del universo en que Dios lo ha colocado.
-Queremos levantar una nacionalidad nuestra.
-Tenemos que inspirarla en esos principios clásicos.
-Cuando el espíritu se libera, el cuerpo se libera.
-Así seremos entonces, hay que ser primeros y grandes en el espíritu para que el cuerpo sea noble, bello y santo.
-Pero no al revés.
-No puede haber ni belleza, ni santidad, ni grandeza en un cuerpo de bruto.
-Los pueblos europeos han dado la lección terrible al mundo, y no ha respetado el 12 de octubre.
-Los europeos, que tuvieron el privilegio de ver organizado en su seno todo el cristianismo, de tener después del Cristo a un San Francisco de Asís, de tener entre ellos como, se pudiera decir, como dijo un gran místico, la resurrección de nuevo en San Francisco de Asís.
-No ha respetado el cristianismo.
+
+Para siempre que tengamos un modo, un método de gozar los bienes terrestres. Pero eso no es una cuestión personal.
+
+La propiedad privada no se puede concebir nada más que como un medio de distribución de la propiedad colectiva. Que los bienes de la tierra son de los humildes, que los bienes de la tierra son de todos los seres del mundo y que todos los seres del mundo son nuestros hermanos en la carne y en el espíritu. No se puede concebir una nueva sociedad en el mundo sin ese espíritu, sin ese desprendimiento y sin esa liberación de la doctrina de la fuerza.
+
+Si nosotros creemos solamente en la fuerza bruta, no podríamos levantarnos contra la fuerza bruta. Si Albizu Campos creyera en la fuerza bruta, no levantaría bandera contra el despotismo de los Estados Unidos.
+
+Son muchos los brutos en el planeta. Hay los culebrones, hay los cuadrúpedos, hay las aves de rapiña, todos son brutos. Hay los que se creen ser hombres, son bestias. No, hay algo más grande en el hombre y es la fuerza de su espíritu. Y es el reflejo de la divinidad en él, con la comprensión del universo en que Dios lo ha colocado. Queremos levantar una nacionalidad nuestra.
+
+Tenemos que inspirarla en esos principios clásicos. Cuando el espíritu se libera, el cuerpo se libera. Así seremos entonces, hay que ser primeros y grandes en el espíritu para que el cuerpo sea noble, bello y santo. Pero no al revés. No puede haber ni belleza, ni santidad, ni grandeza en un cuerpo de bruto.
+
+Los pueblos europeos han dado la lección terrible al mundo, y no ha respetado el 12 de octubre. Los europeos, que tuvieron el privilegio de ver organizado en su seno todo el cristianismo, de tener después del Cristo a un San Francisco de Asís, de tener entre ellos como, se pudiera decir, como dijo un gran místico, la resurrección de nuevo en San Francisco de Asís. No ha respetado el cristianismo.
+
 Y empuñaron la cruz, ¿para qué? ¿Para qué empuñaron la cruz? Para tener un puñal para clavar en el corazón de los pueblos oprimidos de la tierra.
-Los pueblos europeos están pasando por la crisis más grande de su historia.
-Generación tras generación de Europa se puso a educar a sus hijos en el despotismo sobre los pueblos sin armas, sobre los pueblos indefensos.
-Se pusieron a educar a sus sabios, a sus más ilustres sabios, a sus juristas, a sus artistas y hasta sus clérigos y hasta su clero. Para que puedan imponer, ¿el qué? ¿El Evangelio? ¡No!
-La piratería, el robo, el asesinato.
-Hacer de la cruz una espada o hacer de la cruz un estoque para dar en el corazón de las mujeres y los niños indefensos de África, de América y de Asia.
-Y ahora hoy se ven cosechando el fruto de su historia de cuatro siglos.
-Hoy los europeos han perdido el cerebro.
-Todo su cinismo, toda su listeza, toda la agudeza de todos sus pensadores cae sobre Europa hoy como un rayo demoledor. Y estamos en la encrucijada de la liquidación de la barbarie europea.
-Los descendientes de Europa que han imitado sus vicios, el espíritu de piratería, el espíritu de engaño, el espíritu de egoísmo, de los que han caído en la locura de la adoración del oro, en Nuestra América fueron los yankees.
-No quiero decir con eso que nosotros estemos inmunes a esta enfermedad.
-Tenemos que estar muy al tanto de nuestras propias limitaciones.
-Hay esclavitud en Puerto Rico, porque aquí están los locos que se quieren acostar sobre una almohada de billetes, y que piensa en esa almohada, y en esa almohada, y en esa almohada.
-Y en llenar más la almohada de más billetes y más billetes.
-Y eso es una enfermedad como el reumatismo.
-Para acostarse sobre el colchón de dinero, no tienen un tiempo ni para una caricia para su esposa, ni para sus hijos. Los hijos le molestan, la mujer le molesta, todo le molesta.
-Llega un momento hasta que el estómago le molesta.
-No puede ni siquiera digerir y ese montón de oro le sirve solamente de lapidario. Es una lápida que cae sobre su tumba y nadie permite que se le haga de oro.
-Se la hacen de piedra.
-Ni siquiera en la tumba puede llevarse su oro.
-No estamos inmunes.
-Aquí tenemos esos locos, tenemos esos idiotas, a esos imbéciles del culto al becerro de oro. Esclavos, le tocan el rabo, le besan el hocico, etcétera.
-Pero los yankees son el pueblo americano.
-Es el pueblo americano donde el culto del oro europeo ha llegado a su apogeo.
-Y me decía un sabio israelita, un sabio judío, me decía estas palabras:
-Mire, don Pedro, si yo creyera en la reencarnación, diría él, las tribus de Judá eran doce.
-Y la historia da cuenta de once, pero falta una. Y yo creo que ella reencarnó en los Estados Unidos.
-Por eso es que nuestro pueblo, nosotros los ponceños, cuando niños, podíamos hablar de la guerra de la independencia de los Estados Unidos.
-¡Con qué emoción nos enseñaban a nosotros la grandeza de sus libertadores! ¡Con qué emoción nos enseñaban a nosotros la grandeza de sus emancipadores!
-Pero veíamos que Ponce desaparecía.
+
+Los pueblos europeos están pasando por la crisis más grande de su historia. Generación tras generación de Europa se puso a educar a sus hijos en el despotismo sobre los pueblos sin armas, sobre los pueblos indefensos. Se pusieron a educar a sus sabios, a sus más ilustres sabios, a sus juristas, a sus artistas y hasta sus clérigos y hasta su clero. Para que puedan imponer, ¿el qué? ¿El Evangelio? ¡No! La piratería, el robo, el asesinato.
+
+Hacer de la cruz una espada o hacer de la cruz un estoque para dar en el corazón de las mujeres y los niños indefensos de África, de América y de Asia. Y ahora hoy se ven cosechando el fruto de su historia de cuatro siglos. Hoy los europeos han perdido el cerebro. Todo su cinismo, toda su listeza, toda la agudeza de todos sus pensadores cae sobre Europa hoy como un rayo demoledor. Y estamos en la encrucijada de la liquidación de la barbarie europea.
+
+Los descendientes de Europa que han imitado sus vicios, el espíritu de piratería, el espíritu de engaño, el espíritu de egoísmo, de los que han caído en la locura de la adoración del oro, en Nuestra América fueron los yankees. No quiero decir con eso que nosotros estemos inmunes a esta enfermedad. Tenemos que estar muy al tanto de nuestras propias limitaciones.
+
+Hay esclavitud en Puerto Rico, porque aquí están los locos que se quieren acostar sobre una almohada de billetes, y que piensa en esa almohada, y en esa almohada, y en esa almohada. Y en llenar más la almohada de más billetes y más billetes. Y eso es una enfermedad como el reumatismo. Para acostarse sobre el colchón de dinero, no tienen un tiempo ni para una caricia para su esposa, ni para sus hijos. Los hijos le molestan, la mujer le molesta, todo le molesta. Llega un momento hasta que el estómago le molesta.
+
+No puede ni siquiera digerir y ese montón de oro le sirve solamente de lapidario. Es una lápida que cae sobre su tumba y nadie permite que se le haga de oro. Se la hacen de piedra. Ni siquiera en la tumba puede llevarse su oro. No estamos inmunes. Aquí tenemos esos locos, tenemos esos idiotas, a esos imbéciles del culto al becerro de oro. Esclavos, le tocan el rabo, le besan el hocico, etcétera.
+
+Pero los yankees son el pueblo americano. Es el pueblo americano donde el culto del oro europeo ha llegado a su apogeo. Y me decía un sabio israelita, un sabio judío, me decía estas palabras: Mire, don Pedro, si yo creyera en la reencarnación, diría él, las tribus de Judá eran doce. Y la historia da cuenta de once, pero falta una. Y yo creo que ella reencarnó en los Estados Unidos. Por eso es que nuestro pueblo, nosotros los ponceños, cuando niños, podíamos hablar de la guerra de la independencia de los Estados Unidos.
+
+¡Con qué emoción nos enseñaban a nosotros la grandeza de sus libertadores! ¡Con qué emoción nos enseñaban a nosotros la grandeza de sus emancipadores! Pero veíamos que Ponce desaparecía.
+
 La miseria, la miseria, la miseria, ¡la miseria!
+
 Y toda esa grandeza predicada no se traducía en ningún bien, ni material ni espiritual para nosotros.
-Oír a un yanqui bueno predicar, conmueve, como oír a todo ser bueno predicar, conmueve. No importa tu nacionalidad.
-Pero la sordidez, la listeza del yanqui, la malicia para venir aquí predicando para ver qué hay en el subsuelo.
-Es como un hongo que camina para abajo siempre a ver qué hay debajo.
-Como un congre que se mete en el mar a ver qué hay en el fondo del mar.
-Y cuando sale afuera, abre la boca sonriéndose con la Biblia en la mano.
-Ese pueblo, ese pueblo arrasó a sangre y fuego con la raza india.
-En este momento en que yo hablo, en este 12 de octubre en que yo hablo, la raza india en Estados Unidos vive en campamentos de concentración, sin derechos de ninguna clase, bajo un precario despotismo del Congreso de los Estados Unidos.
-Pero lo único que existe la bandera yanqui para el indio americano es cuando hay una guerra en los Estados Unidos.
+
+Oír a un yanqui bueno predicar conmueve, como oír a todo ser bueno predicar, conmueve. No importa tu nacionalidad. Pero la sordidez, la listeza del yanqui, la malicia para venir aquí predicando para ver qué hay en el subsuelo. Es como un gongolí que camina para abajo siempre a ver qué hay debajo. Como un congre que se mete en el mar a ver qué hay en el fondo del mar. Y cuando sale afuera, abre la boca sonriéndose con la Biblia en la mano.
+
+Ese pueblo, ese pueblo arrasó a sangre y fuego con la raza india. En este momento en que yo hablo, en este 12 de octubre en que yo hablo, la raza india en Estados Unidos vive en campamentos de concentración, sin derechos de ninguna clase, bajo un precario despotismo del Congreso de los Estados Unidos.
+
+Para lo único que existe la bandera yanqui para el indio americano es cuando hay una guerra en los Estados Unidos.
+
 Pues el indio, en los Estados Unidos, en este momento, vive en campos de concentración.
 Se dijo que Hitler había inventado los campos de concentración. No.
 La invención de campos de concentración, una institución de los Estados Unidos, tiene muchos años de establecida.
