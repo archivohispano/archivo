@@ -6,7 +6,7 @@ author: pedro-albizu-campos
 author_name: "Pedro Albizu Campos"
 date: 1948-10-12
 source: "Discurso en Ponce"
-source_detail: "Discurso pronunciado en Ponce, Puerto Rico, el 12 de octubre de 1948"
+source_detail: ["Discurso pronunciado en Ponce, Puerto Rico"](https://www.youtube.com/watch?v=uo7pg9U4nP4)
 country: puerto-rico
 permalink: /es/textos/pedro-albizu-campos/dia-de-la-raza-1948
 english_version: /en/texts/pedro-albizu-campos/day-of-the-race-1948
