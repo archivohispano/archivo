@@ -129,239 +129,230 @@ Ese pueblo, ese pueblo arrasó a sangre y fuego con la raza india. En este momen
 
 Para lo único que existe la bandera yanqui para el indio americano es cuando hay una guerra en los Estados Unidos.
 
-Pues el indio, en los Estados Unidos, en este momento, vive en campos de concentración.
-Se dijo que Hitler había inventado los campos de concentración. No.
-La invención de campos de concentración, una institución de los Estados Unidos, tiene muchos años de establecida.
-Ahora, cuando los Estados Unidos tiene una guerra, la madre india tiene que entregarle su hijo al yanqui para que se vaya a matar a Alemania, a África o al Japón.
-Para eso siempre son buenos los indios.
-Una situación muy parecida a los puertorriqueños.
-Los puertorriqueños no deben nacer, los puertorriqueños no deben existir.
-Hay demasiados puertorriqueños en el mundo.
-Sí, pero cuando le aprietan la clavija a los yanquis: «Ajá, necesitamos los puertorriqueños, echar la mochila encima para que se vayan a matar por sus errores».
-Arrasaron con la sangre indígena.
-Me preguntan siempre los sabios de buena fe que en Estados Unidos, ¿por qué al norte de Estados Unidos, en el Canadá, en la parte francesa del Canadá, hay una gran nación en que está la sangre indígena y la sangre europea, en que se ha suprimido eso de sangre indígena y sangre europea, o de sangre americana, o de sangre europea, o de sangre india, o de sangre negra y de sangre blanca, porque solo hay una sola sangre, la sangre humana y divina del hombre? ¿Por qué?
-¿Por qué el sur de Río Grande se presenta el mismo fenómeno?
-¿Por qué México, de una población de 22 millones de habitantes, por lo menos 20 millones, son descendientes de nuestros mayores, los indios que poblaron las Américas?
-Ah, es porque en Estados Unidos llegó todo el espíritu Europa en la plenitud de su barbarie.
-La edad contemporánea, amigos míos, no es la edad de la bomba atómica, no.
-La edad contemporánea es la edad del bárbaro científico.
-Concebíamos la barbarie como un estado de ignorancia de la mente humana.
-Siempre fue un error.
-La barbarie no es un estado de ignorancia de la mente.
-La barbarie es un estado de vileza del espíritu del hombre. Y los europeos organizaron su vileza, su piratería, su robo, su asesinato colectivo de humanidad entera.
-Y los yanquis, sus sucesores, y los australianos, sus sucesores, y los sudafricanos, sus sucesores, son los que quieren imponer al mundo hoy ese espíritu.
-Y el gran portavoz de la barbarie anglosajona... Habéis leído últimamente la prensa inglesa, en la prensa que aquí de Puerto Rico, que refleja solamente los movimientos del pensamiento de los déspotas que nos gobiernan.
-Ha dicho últimamente ese portavoz inglés que lo único que salva a los yanquis y salva a los ingleses en este momento en que hablamos es la bomba atómica.
-Que si no tuvieran la bomba atómica en sus manos, se tendrían que suicidar.
+Pues el indio, en los Estados Unidos, en este momento, vive en campos de concentración. Se dijo que Hitler había inventado los campos de concentración. No.
+
+La invención de campos de concentración, una institución de los Estados Unidos, tiene muchos años de establecida. Ahora, cuando los Estados Unidos tiene una guerra, la madre india tiene que entregarle su hijo al yanqui para que se vaya a matar a Alemania, a África o al Japón. Para eso siempre son buenos los indios.
+
+Una situación muy parecida a los puertorriqueños. Los puertorriqueños no deben nacer, los puertorriqueños no deben existir. Hay demasiados puertorriqueños en el mundo. Sí, pero cuando le aprietan la clavija a los yanquis: «Ajá, necesitamos los puertorriqueños, echar la mochila encima para que se vayan a matar por sus errores».
+
+Arrasaron con la sangre indígena. Me preguntan siempre los sabios de buena fe que en Estados Unidos, ¿por qué al norte de Estados Unidos, en el Canadá, en la parte francesa del Canadá, hay una gran nación en que está la sangre indígena y la sangre europea, en que se ha suprimido eso de sangre indígena y sangre europea, o de sangre americana, o de sangre europea, o de sangre india, o de sangre negra y de sangre blanca, porque solo hay una sola sangre, la sangre humana y divina del hombre? ¿Por qué?
+
+¿Por qué el sur de Río Grande se presenta el mismo fenómeno? ¿Por qué México, de una población de 22 millones de habitantes, por lo menos 20 millones, son descendientes de nuestros mayores, los indios que poblaron las Américas? Ah, es porque en Estados Unidos llegó todo el espíritu Europa en la plenitud de su barbarie.
+
+La edad contemporánea, amigos míos, no es la edad de la bomba atómica, no. La edad contemporánea es la edad del bárbaro científico. Concebíamos la barbarie como un estado de ignorancia de la mente humana. Siempre fue un error.
+
+La barbarie no es un estado de ignorancia de la mente. La barbarie es un estado de vileza del espíritu del hombre. Y los europeos organizaron su vileza, su piratería, su robo, su asesinato colectivo de humanidad entera.
+
+Y los yanquis, sus sucesores, y los australianos, sus sucesores, y los sudafricanos, sus sucesores, son los que quieren imponer al mundo hoy ese espíritu. 
+
+Y el gran portavoz de la barbarie anglosajona... Habéis leído últimamente la prensa inglesa, en la prensa que aquí de Puerto Rico, que refleja solamente los movimientos del pensamiento de los déspotas que nos gobiernan. Ha dicho últimamente ese portavoz inglés que lo único que salva a los yanquis y salva a los ingleses en este momento en que hablamos es la bomba atómica. Que si no tuvieran la bomba atómica en sus manos, se tendrían que suicidar.
+
 Hoy día, lo dice eso el gran portavoz del mundo angloamericano. No lo dice Albizu Campos.
-Y es que los ingleses y su comunidad de naciones británicas y los yanquis, sus hermanos, han llegado a la quebradura moral de su espíritu, y lo único que les queda es el temor a la sanción eterna que viene sobre ellos avanzando, que viene avanzando sobre sus conciencias, que ellos son los que se sienten débiles.
-Se sienten débiles, no porque hay un gran poder moscovita en la tierra, ¡no!
-Es porque ellos llevan en su corazón la nube negra de su rapiña, la lumbre negra de que le llevará el odio, el rencor, la destrucción y la muerte de todo pueblo a quien quieran explotar.
-[Ponen] a los pueblos hispánicos, los pueblos latinos del mundo, en un dilema, pero muy especialmente a las naciones católicas de la tierra, a que escojamos entre los rusos y los yanquis.
-Por supuesto, a los puertorriqueños solo les parecerá muy ridículo.
-Habrá un puertorriqueño por ahí, que el pobrecito, porque tenga la cabeza de cemento o la sangre de melao o los nervios de ron o el cerebro de azúcar, que esté pensando de esa manera.
-Sinceramente, no lo creo, porque a pesar de estar hecho de melao, ron y azúcar, tiene hijos, tiene sus hijos y ama a sus hijos.
-Y así le den los millones del mundo, ninguno de ellos entregaría sin dolor la sangre de sus amores al despotismo yanqui para que se lo sacrifiquen en Alemania o en Rusia.
-Nosotros somos herederos directos de la única civilización que ha conocido el mundo.
-Nosotros somos herederos directos de un apostolado que está sintetizado en la heráldica de nuestro gran escudo, de un apostolado que la humanidad tiene que agarrar y plegarse a ella para levantarse sobre su propia sombra y erguirse en los grandes apostadores y los grandes apóstoles de la nueva emancipación humana.
-Y que el 12 de octubre sea un nuevo descubrimiento, o sea el descubrimiento, el alumbramiento de toda grandeza y la nobleza de todos los hombres y todas las mujeres de la tierra.
-Hoy, la labor de Bolívar, la labor de todos nuestros apóstoles, la labor del silencio, de la oración.
-La labor del silencio y la oración de todas nuestras madres anónimas.
-La labor del silencio y la oración de todos los humildes.
-He dicho que la grandeza será siempre la realización de la anonimia, de los desconocidos.
-La historia del mundo se escribe por los que no han sido conocidos. Los grandes se conocen cuando salen como un cometa en el espacio, alumbrando el mismo día en pleno sol.
-Por eso nosotros tenemos que estar agarrados en amor y veneración al descalzo, al niño indefenso, a la mujer física.
-Es una madre nuestra y hay que adorarla y defenderla contra todos los despotismos de la tierra.
-Tenemos que sentirla en nuestros corazones.
-Tenemos que desterrar del ambiente nuestro ese cuadro de barbarie de una mujer física.
-Todavía en su estado inerme físico, agarrada a sus hijos para dar el aliento de su espíritu. Y que una comunidad pase por ella, como he visto yo en San Juan, indiferencia situacionalista.
-Que la prensa tenga que clamar porque alguien recoja a ese niño o a esos niños.
-Oh, yo vengo de la época en que no se permitía entonces que hubiese un huérfano sin padre y sin madre.
-Yo vengo de la época en que todo niño y toda niña nacida en esta ciudad y en Puerto Rico tenía tantos padres y tantas madres amantes como mujeres y hombres adultos habían en la patria.
-Y se veía un huérfano cuando entraba a un hogar como una bendición que entrara a un hogar, porque se decía el huérfano lleva en sí la gracia del Espíritu Santo, porque el huérfano provoca la gracia del Espíritu Santo.
-Invitemos al huérfano a nuestros hogares.
-Pongámoslo en el regazo del mismo lecho del connubio para salvación nuestra, no del huérfano, porque con el huérfano entra la santidad al hogar.
-Los yanquis predican mucho, pero todo está a base de un cálculo.
-Las sagradas escrituras han encontrado en ellos a los intérpretes más raros.
-Los intérpretes para hacer del sermón de la montaña, el sermón de la montaña, del becerro de oro.
-Hoy ha vuelto la onda de la vileza del espíritu, ha vuelto duro.
-Les viene de los australianos, les viene de los sudafricanos, les viene de Yanquilandia.
-Y los europeos encuentran esta gran encrucijada en su historia y no quieren acordarse del Cristo, no quieren acordarse de un Francisco de Asís, no quieren acordarse de sus crímenes.
-Quieren seguir engañando a la humanidad.
-Y a mí me han consultado muchos católicos eminentes sobre cuál es mi humilde opinión del momento histórico.
-Y yo le digo: el momento histórico, el momento histórico es el momento de nuestra propia conciencia.
+
+Y es que los ingleses y su comunidad de naciones británicas y los yanquis, sus hermanos, han llegado a la quebradura moral de su espíritu, y lo único que les queda es el temor a la sanción eterna que viene sobre ellos avanzando, que viene avanzando sobre sus conciencias, que ellos son los que se sienten débiles. Se sienten débiles, no porque hay un gran poder moscovita en la tierra, ¡no! Es porque ellos llevan en su corazón la nube negra de su rapiña, la lumbre negra de que le llevará el odio, el rencor, la destrucción y la muerte de todo pueblo a quien quieran explotar. 
+
+[Ponen] a los pueblos hispánicos, los pueblos latinos del mundo, en un dilema, pero muy especialmente a las naciones católicas de la tierra, a que escojamos entre los rusos y los yanquis. Por supuesto, a los puertorriqueños solo les parecerá muy ridículo. Habrá un puertorriqueño por ahí, que el pobrecito, porque tenga la cabeza de cemento o la sangre de melao o los nervios de ron o el cerebro de azúcar, que esté pensando de esa manera. Sinceramente, no lo creo, porque a pesar de estar hecho de melao, ron y azúcar, tiene hijos, tiene sus hijos y ama a sus hijos. Y así le den los millones del mundo, ninguno de ellos entregaría sin dolor la sangre de sus amores al despotismo yanqui para que se lo sacrifiquen en Alemania o en Rusia.
+
+Nosotros somos herederos directos de la única civilización que ha conocido el mundo. Nosotros somos herederos directos de un apostolado que está sintetizado en la heráldica de nuestro gran escudo, de un apostolado que la humanidad tiene que agarrar y plegarse a ella para levantarse sobre su propia sombra y erguirse en los grandes apostadores y los grandes apóstoles de la nueva emancipación humana.
+
+Y que el 12 de octubre sea un nuevo descubrimiento, o sea el descubrimiento, el alumbramiento de toda grandeza y la nobleza de todos los hombres y todas las mujeres de la tierra. Hoy, la labor de Bolívar, la labor de todos nuestros apóstoles, la labor del silencio, de la oración. La labor del silencio y la oración de todas nuestras madres anónimas. La labor del silencio y la oración de todos los humildes. He dicho que la grandeza será siempre la realización de la anonimia, de los desconocidos. La historia del mundo se escribe por los que no han sido conocidos. Los grandes se conocen cuando salen como un cometa en el espacio, alumbrando el mismo día en pleno sol.
+
+Por eso nosotros tenemos que estar agarrados en amor y veneración al descalzo, al niño indefenso, a la mujer física. Es una madre nuestra y hay que adorarla y defenderla contra todos los despotismos de la tierra. Tenemos que sentirla en nuestros corazones. Tenemos que desterrar del ambiente nuestro ese cuadro de barbarie de una mujer física.
+
+Todavía en su estado inerme físico, agarrada a sus hijos para dar el aliento de su espíritu. Y que una comunidad pase por ella, como he visto yo en San Juan, indiferencia situacionalista. Que la prensa tenga que clamar porque alguien recoja a ese niño o a esos niños.
+
+Oh, yo vengo de la época en que no se permitía entonces que hubiese un huérfano sin padre y sin madre. Yo vengo de la época en que todo niño y toda niña nacida en esta ciudad y en Puerto Rico tenía tantos padres y tantas madres amantes como mujeres y hombres adultos habían en la patria. Y se veía un huérfano cuando entraba a un hogar como una bendición que entrara a un hogar, porque se decía el huérfano lleva en sí la gracia del Espíritu Santo, porque el huérfano provoca la gracia del Espíritu Santo. Invitemos al huérfano a nuestros hogares. Pongámoslo en el regazo del mismo lecho del connubio para salvación nuestra, no del huérfano, porque con el huérfano entra la santidad al hogar.
+
+Los yanquis predican mucho, pero todo está a base de un cálculo. Las sagradas escrituras han encontrado en ellos a los intérpretes más raros. Los intérpretes para hacer del sermón de la montaña, el sermón de la montaña, del becerro de oro. Hoy ha vuelto la onda de la vileza del espíritu, ha vuelto duro. Les viene de los australianos, les viene de los sudafricanos, les viene de Yanquilandia.
+
+Y los europeos encuentran esta gran encrucijada en su historia y no quieren acordarse del Cristo, no quieren acordarse de un Francisco de Asís, no quieren acordarse de sus crímenes. Quieren seguir engañando a la humanidad.
+
+Y a mí me han consultado muchos católicos eminentes sobre cuál es mi humilde opinión del momento histórico. Y yo le digo: el momento histórico, el momento histórico es el momento de nuestra propia conciencia.
+
 Si nosotros somos los verdugos de nuestros hermanos, si nosotros vemos en un puertorriqueño o en cualquier ser humano solamente una bestia para explotarlo, para engañarle, para robarle, para vilipendiarlo, para patearlo, levantar sobre nosotros una hoz y esa hoz no será curva, será la hoz estrecha y larga de la muerte, porque nosotros hemos cometido el suicidio de nuestro propio espíritu.
-¿Queréis la salvación?
-La salvación está en ser justo con nuestra propia carne.
-La caridad empieza por casa, porque no vamos a salvar a nadie si nosotros no nos hemos salvado tampoco.
-Hay que empezar por salvarnos nosotros contra nuestra propia vileza.
-El mal no viene de afuera, el mal viene de dentro.
-Y si nosotros no arrancamos del corazón todas esas limitaciones, ningún cañón nos va a salvar ni la bomba atómica nos va a salvar.
-Vamos a desaparecer como esos cañones y con la bomba atómica.
-Eso lo que será es aumentar el terror de nuestro propio espíritu, acobardarnos más y agarrarnos más a las presas de nuestra codicia y de nuestro egoísmo.
-¿Queremos sobrevivir en el mundo?
-Sed justos. ¿Queremos ser los apóstoles de la humanidad?
-El sermón de la montaña, todo está escrito y todo está vivido.
-Tenemos la inspiración de las mujeres más bellas de la tierra.
-Tenemos la inspiración de los espíritus, de los manes más perfectos del mundo.
-Tenemos la inspiración de todos los santos.
-Y nosotros tenemos que levantarnos con esa inspiración.
-Tiene que haber la devoción de nuestros hogares.
-Nosotros tenemos aquí que reconstruir nuestra sociedad.
-Aquí el yanqui está diseminando y predicando la eliminación de nuestra nacionalidad, diciendo que para qué usted vive en Puerto Rico, ¿por qué está usted aquí?
-El yanqui tiene insolencia de preguntarle a cada puertorriqueño: ¿Por qué nació usted?
-Y tiene sus políticos aquí que nos dicen: ¿Y por qué usted nació aquí?
-Y uno le pregunta al político: ¿Y por qué diablos está tú aquí?
-¿Quién te mandó aquí?
-Yo sabía que— desearía saber quién fueron tus padres.
-Yo no los conozco.
+
+¿Queréis la salvación? La salvación está en ser justo con nuestra propia carne. La caridad empieza por casa, porque no vamos a salvar a nadie si nosotros no nos hemos salvado tampoco. Hay que empezar por salvarnos nosotros contra nuestra propia vileza.
+
+El mal no viene de afuera, el mal viene de dentro. Y si nosotros no arrancamos del corazón todas esas limitaciones, ningún cañón nos va a salvar ni la bomba atómica nos va a salvar. Vamos a desaparecer como esos cañones y con la bomba atómica.
+
+Eso lo que será es aumentar el terror de nuestro propio espíritu, acobardarnos más y agarrarnos más a las presas de nuestra codicia y de nuestro egoísmo. 
+
+¿Queremos sobrevivir en el mundo? Sed justos. 
+
+¿Queremos ser los apóstoles de la humanidad? El sermón de la montaña, todo está escrito y todo está vivido.
+
+Tenemos la inspiración de las mujeres más bellas de la tierra. Tenemos la inspiración de los espíritus, de los manes más perfectos del mundo. Tenemos la inspiración de todos los santos. Y nosotros tenemos que levantarnos con esa inspiración.
+
+Tiene que haber la devoción de nuestros hogares. Nosotros tenemos aquí que reconstruir nuestra sociedad.
+
+Aquí el yanqui está diseminando y predicando la eliminación de nuestra nacionalidad, diciendo que para qué usted vive en Puerto Rico, ¿por qué está usted aquí? El yanqui tiene insolencia de preguntarle a cada puertorriqueño: ¿Por qué nació usted? Y tiene sus políticos aquí que nos dicen: ¿Y por qué usted nació aquí? Y uno le pregunta al político: ¿Y por qué diablos está tú aquí? ¿Quién te mandó aquí?
+
+Yo sabía que— desearía saber quién fueron tus padres. Yo no los conozco.
+
 Y nos dicen que el hogar no existe, que el matrimonio no existe, que no hay nada santo, que todo es cuestión de ñames y yautías.
+
 Y vemos que los juramentos, los juramentos que se hace un hombre o una mujer, ya de antemano carecen de validez.
-Y la idea sacramental está en el vacío y hay que restaurarla.
-Hay que restaurar la idea sacramental.
-Si no podemos restaurar el sacramento en su plenitud en nosotros, restaurar la idea del sacramento en nosotros.
-Que cuando demos la palabra empeñada, sea hecho de gloria para todos.
-Y que hay que amar a una mujer cuando es inválida.
-Amar a los que son sanos, fuertes y bellos, que son codiciados por todos los aspirantes a la belleza, no es una gran virtud.
+
+Y la idea sacramental está en el vacío y hay que restaurarla. Hay que restaurar la idea sacramental.
+
+Si no podemos restaurar el sacramento en su plenitud en nosotros, restaurar la idea del sacramento en nosotros. Que cuando demos la palabra empeñada, sea hecho de gloria para todos.
+
+Y que hay que amar a una mujer cuando es inválida. Amar a los que son sanos, fuertes y bellos, que son codiciados por todos los aspirantes a la belleza, no es una gran virtud.
+
 Amar a una mujer inerme, enferma, al amor que no puede dar nada de su cuerpo, si no es todo le mana de su espíritu.
-Y cuando hay ese amor del espíritu es que nosotros somos realmente grandes.
-Amar a un hombre sano, bello, un apolo, sabio, talentoso y poderoso, es bueno.
-Pero eso es más grande amarlo cuando esté inerme, ya distendido en una cama.
-Y este voto tiene que vivirse en la suprema adversidad.
-Es el momento de la prueba.
-Y esa ola de divorcios que hay en Puerto Rico es la ola de la falta de palabra, de la falta de devoción, de la falta del espíritu de sacrificio mutuo, de la falta de la idea sacramental en la vida, de la falta de la grandeza y gloria de los seres humanos en la tierra, de la visión de que nosotros no hemos venido aquí solamente a pasar un momento de hastío o de placer, sino a recorrer el universo triunfantes en la gloria eterna.
+
+Y cuando hay ese amor del espíritu es que nosotros somos realmente grandes. Amar a un hombre sano, bello, un apolo, sabio, talentoso y poderoso, es bueno.
+
+Pero eso es más grande amarlo cuando esté inerme, ya distendido en una cama. Y este voto tiene que vivirse en la suprema adversidad.
+
+Es el momento de la prueba. Y esa ola de divorcios que hay en Puerto Rico es la ola de la falta de palabra, de la falta de devoción, de la falta del espíritu de sacrificio mutuo, de la falta de la idea sacramental en la vida, de la falta de la grandeza y gloria de los seres humanos en la tierra, de la visión de que nosotros no hemos venido aquí solamente a pasar un momento de hastío o de placer, sino a recorrer el universo triunfantes en la gloria eterna.
+
 Quieren hablarte de la democracia.
-Si nosotros no conociéramos bien a los politiqueros puertorriqueños, pues nos engañarían.
-Pero desgraciadamente, mucha parte humanidad no quiere— no sabe lo que quiere decir la palabra democracia en labios de los politicastros de Puerto Rico o de los déspotas yanquis que lo mandan a hablar de democracia.
-Nos quieren hablar de libertades civiles, nos quieren hablar de derechos políticos, pero no, mientras están hablando de esos derechos para Holanda, para Gran Bretaña y para Estados Unidos, los africanos vilipendiados, pateados, masacrados, los asiáticos vilipendiados, pateados, masacrados.
-¿Con qué derecho?
-Yo digo a mis paisanos y a todos los hispanoamericanos que la hora ha sonado de nosotros empuñar el estandarte del mundo, y es el mismo estandarte.
-Es el estandarte de la justicia, es el estandarte de la nobleza, es el estandarte de no clasificar a los hombres como bestias por su color o por el largo de su cabello, de la onda del cabello.
+
+Si nosotros no conociéramos bien a los politiqueros puertorriqueños, pues nos engañarían. Pero desgraciadamente, mucha parte humanidad no quiere— no sabe lo que quiere decir la palabra democracia en labios de los politicastros de Puerto Rico o de los déspotas yanquis que lo mandan a hablar de democracia.
+
+Nos quieren hablar de libertades civiles, nos quieren hablar de derechos políticos, pero no, mientras están hablando de esos derechos para Holanda, para Gran Bretaña y para Estados Unidos, los africanos vilipendiados, pateados, masacrados, los asiáticos vilipendiados, pateados, masacrados. ¿Con qué derecho?
+
+Yo digo a mis paisanos y a todos los hispanoamericanos que la hora ha sonado de nosotros empuñar el estandarte del mundo, y es el mismo estandarte. Es el estandarte de la justicia, es el estandarte de la nobleza, es el estandarte de no clasificar a los hombres como bestias por su color o por el largo de su cabello, de la onda del cabello.
+
 No.
-Es el estandarte que dice que el hombre es su suprema dignidad y hay que respetarla en cualquier plano en que se encuentre.
-Y que la humanidad se quiebra por el punto más débil y que la humanidad nunca se levantará en el apogeo de su gloria si hay un solo pueblo esclavo en el mundo.
-Los españoles no se acordarán nunca de Puerto Rico.
-Cierto es que hemos pasado por la vergüenza de ver a puertorriqueños nacidos aquí, que se han ido a un tribunal yanqui a jurar que por ser ciudadanos yanquis matarían a los nacionalistas.
+
+Es el estandarte que dice que el hombre es su suprema dignidad y hay que respetarla en cualquier plano en que se encuentre. Y que la humanidad se quiebra por el punto más débil y que la humanidad nunca se levantará en el apogeo de su gloria si hay un solo pueblo esclavo en el mundo.
+
+Los españoles no se acordarán nunca de Puerto Rico. Cierto es que hemos pasado por la vergüenza de ver a puertorriqueños nacidos aquí, que se han ido a un tribunal yanqui a jurar que por ser ciudadanos yanquis matarían a los nacionalistas.
+
 Cierto es que hemos pasado por la vergüenza de ver a españoles nacidos en España que han ido a un tribunal yanqui a jurar, a jurar, a renegar de su estirpe española.
+
 Cierto es que hemos visto aquí, en la llamada Universidad de Río Piedras, catedráticos, llamados catedráticos hispanoamericanos, renegando de su nacionalidad, de su estirpe y de su cultura, y sancionando el maltrato y el pateo del estudiantado noble y grande.
+
 Cierto es que en ese mismo centro hemos visto españoles, gente nacida en España, que han bebido las fuentes prístinas de nuestra cultura y que por un miserable sueldo, a pesar de ser desterrados de su patria, vienen aquí a hacer de esclavizantes, de capataces, para dirigir y poner un bozal a la juventud noble y grande de Puerto Rico.
+
 Hemos visto toda vileza en nuestra sangre.
-La pus no es la sangre.
-La pus no es la sangre.
-La excreta no es el espíritu del hombre.
-Son elementos, exudaciones del proceso biológico del cuerpo, pero no es el espíritu del hombre ni su mente.
-Y nadie se confunda con esa excreta y con esa pus, sino que aquí hay que recordar siempre el espíritu.
-El espíritu de un Cristóbal Colón, el espíritu de los Pinzón, el espíritu de Sebastián Elcano, el espíritu de Magallanes, el espíritu de Blas de Lezo, el espíritu de Javier de las Indias, el espíritu de todos los grandes de la historia de Bolívar y de todos los grandes que lo han hecho en la historia del mundo.
-Nosotros tenemos nuestra estirpe.
+
+La pus no es la sangre. La pus no es la sangre. La excreta no es el espíritu del hombre.
+
+Son elementos, exudaciones del proceso biológico del cuerpo, pero no es el espíritu del hombre ni su mente. Y nadie se confunda con esa excreta y con esa pus, sino que aquí hay que recordar siempre el espíritu.
+
+El espíritu de un Cristóbal Colón, el espíritu de los Pinzón, el espíritu de Sebastián Elcano, el espíritu de Magallanes, el espíritu de Blas de Lezo, el espíritu de Javier de las Indias, el espíritu de todos los grandes de la historia de Bolívar y de todos los grandes que lo han hecho en la historia del mundo. Nosotros tenemos nuestra estirpe.
+
 Tenemos nuestra estirpe como nacionalidad.
+
 Nosotros no tenemos que ir a invocar apostolados de nadie.
-Aquí tenemos la grandeza encarnada de un Betances.
-Aquí tenemos la grandeza encarnada de un Hostos.
-Aquí tenemos la grandeza encarnada de un Arizmendi.
-Aquí tenemos la grandeza encarnada de un De Diego.
-Aquí tenemos el sublime heroísmo de un Antongiorgi, de un Rosado, de un Beauchamp.
-Y grandes serán, y grandes serán las mujeres del mundo, pero aquí tenemos a una Mariana Bracetti.
-Aquí tenemos una Candita de Ponce.
-Aquí tenemos las mujeres y los hombres que pueden empuñar la bandera de Puerto Rico bajo un fuego de ametralladora y levantarla en alto como la levantó el Cristo.
-Por eso, cuando yo oigo estos peleles que andan por ahí, hablar de que aquí va a seguir la Colonia y que ellos son los grandes cocorocos de caña, azúcar y ron, pues debe dar gran pena.
-Son anacrónicos, pertenecen a cuatro siglos atrás de la esclavitud.
-La libertad los arrollará y la libertad los va a encerrar contra su voluntad.
-Todo hay que ser confrontado con ellos.
-Si no la adora, tiene que suicidarse porque la libertad lo va a matar.
-La ingratitud no es de los libres, la ingratitud no es de los valerosos.
-Y si por algo tiene que existir el infierno, es porque hay hombres y mujeres ingratos en la Tierra.
-Allí está la delegación de la India, presidida eficazmente en aquel momento por el príncipe Singh, defensores incondicionales del derecho de Puerto Rico a ser libre.
-Yo quiero que recordemos a nuestros hermanos, los que nos defienden.
-Allí está la delegación de Egipto que se levantó a defender nuestro derecho a ser oídos. ¿Por qué no ha de ser oído Puerto Rico?
-Y los yanquis, los esclavizantes, los franceses esclavizantes, los ingleses esclavizantes y todos sus satélites esclavizantes, que no, que no, que la Comisión no tiene autoridad para hacer eso. Oír bien, los yankees diciendo que no tienen autoridad los oprimidos del mundo a ser oídos siquiera ante el Tribunal Internacional de la Humanidad.
-De ese espectáculo, ¿qué más da que en Puerto Rico manden a un almirante con tres leyes de mordaza para ponerle un bozal a cada uno de los populares de Puerto Rico?
-¿Qué más da?
-Los pobrecitos andan muy asustados, muertos de miedo.
-El que no tiene su conciencia bien, pues tiene que estar muerto de miedo.
-Me parece que no es ningún honor para nadie tener que ser capataz sobre sus hermanos.
-A título democracia, a título personal.
-Pero nosotros vamos a insistir en el mundo entero con nuestra causa en Puerto Rico.
-Pero nosotros tenemos que hacer algo en Puerto Rico.
-¿Por qué le dicen a Albizu Campos, le ofrecen en México hogar, propiedad, posición, todo lo que sea, en Santo Domingo, en Cuba, en todas partes del mundo para que se vaya allá? Para que descanse.
-Yo descansar. Yo le agradezco mucho a mis amigos de todas nuestras Américas que le brinden hospitalidad a mis hijos y a [¿Masaya?], mi santa esposa.
-Yo quiero desde esta tribuna a todo el que me oiga, que aquel que tuvo una mirada y respeto para mi mujer en el destierro y para mis hijos en el destierro, allí su campo ha jurado que nunca bajará la guardia en la defensa de la libertad de mi amor.
-Y aquí está mi deber.
+
+Aquí tenemos la grandeza encarnada de un Betances. Aquí tenemos la grandeza encarnada de un Hostos. Aquí tenemos la grandeza encarnada de un Arizmendi. Aquí tenemos la grandeza encarnada de un De Diego. Aquí tenemos el sublime heroísmo de un Antongiorgi, de un Rosado, de un Beauchamp.
+
+Y grandes serán, y grandes serán las mujeres del mundo, pero aquí tenemos a una Mariana Bracetti. Aquí tenemos una Candita de Ponce. Aquí tenemos las mujeres y los hombres que pueden empuñar la bandera de Puerto Rico bajo un fuego de ametralladora y levantarla en alto como la levantó el Cristo.
+
+Por eso, cuando yo oigo estos peleles que andan por ahí, hablar de que aquí va a seguir la Colonia y que ellos son los grandes cocorocos de caña, azúcar y ron, pues debe dar gran pena. Son anacrónicos, pertenecen a cuatro siglos atrás de la esclavitud. La libertad los arrollará y la libertad los va a encerrar contra su voluntad. Todo hay que ser confrontado con ellos. Si no la adora, tiene que suicidarse porque la libertad lo va a matar.
+
+La ingratitud no es de los libres, la ingratitud no es de los valerosos. Y si por algo tiene que existir el infierno, es porque hay hombres y mujeres ingratos en la Tierra.
+
+Allí está la delegación de la India, presidida eficazmente en aquel momento por el príncipe Singh, defensores incondicionales del derecho de Puerto Rico a ser libre. Yo quiero que recordemos a nuestros hermanos, los que nos defienden. Allí está la delegación de Egipto que se levantó a defender nuestro derecho a ser oídos. ¿Por qué no ha de ser oído Puerto Rico?
+
+Y los yanquis, los esclavizantes, los franceses esclavizantes, los ingleses esclavizantes y todos sus satélites esclavizantes, que no, que no, que la Comisión no tiene autoridad para hacer eso. Oír bien, los yankees diciendo que no tienen autoridad los oprimidos del mundo a ser oídos siquiera ante el Tribunal Internacional de la Humanidad. De ese espectáculo, ¿qué más da que en Puerto Rico manden a un almirante con tres leyes de mordaza para ponerle un bozal a cada uno de los populares de Puerto Rico? ¿Qué más da?
+
+Los pobrecitos andan muy asustados, muertos de miedo. El que no tiene su conciencia bien, pues tiene que estar muerto de miedo. Me parece que no es ningún honor para nadie tener que ser capataz sobre sus hermanos. A título democracia, a título personal.
+
+Pero nosotros vamos a insistir en el mundo entero con nuestra causa en Puerto Rico. Pero nosotros tenemos que hacer algo en Puerto Rico.
+
+¿Por qué le dicen a Albizu Campos, le ofrecen en México hogar, propiedad, posición, todo lo que sea, en Santo Domingo, en Cuba, en todas partes del mundo para que se vaya allá? Para que descanse. Yo descansar. Yo le agradezco mucho a mis amigos de todas nuestras Américas que le brinden hospitalidad a mis hijos y a [¿Masaya?], mi santa esposa.
+
+Yo quiero desde esta tribuna a todo el que me oiga, que aquel que tuvo una mirada y respeto para mi mujer en el destierro y para mis hijos en el destierro, allí su campo ha jurado que nunca bajará la guardia en la defensa de la libertad de mi amor. Y aquí está mi deber.
+
 Yo nací aquí y yo soy de la carne de cada uno de vosotros.
+
 Yo soy del espíritu de cada uno de vosotros.
+
 Y si soy empatriado y vilipendiado, yo no sería al mismo tiempo nunca, si yo me expatriara voluntariamente, huyéndole a los esbirros, huyéndole a los peleles, huyéndole a la bomba atómica, huyéndole al despotismo de los Estados Unidos.
-Aquí, amigos míos, está planteada una lucha.
-Una lucha.
-En el tablero no estamos los yanquis y los puertorriqueños solos.
-En el tablero está todo el hemisferio de América.
+
+Aquí, amigos míos, está planteada una lucha. Una lucha.
+
+En el tablero no estamos los yanquis y los puertorriqueños solos. En el tablero está todo el hemisferio de América.
+
 En el tablero, los poderes coloniales, encabezados por los Estados Unidos en pro de la esclavitud en el mundo y los poderes no coloniales que desean la emancipación del hombre y de las nacionalidades.
+
 Y aquí, este es el punto nervioso del mundo en esta actualidad.
+
 Y el mundo se asombra y todas las delegaciones se asombran de la actitud del Partido Nacionalista de Puerto Rico.
-¿Cómo es que esa gente recibe el encarcelamiento, el destierro, las masacres, las torturas, destruyéndoles sus negocios, liquidándoles sus intereses a la fuerza, la prostitución, la corrupción, el soborno, el terrorismo?
-Nada.
+
+¿Cómo es que esa gente recibe el encarcelamiento, el destierro, las masacres, las torturas, destruyéndoles sus negocios, liquidándoles sus intereses a la fuerza, la prostitución, la corrupción, el soborno, el terrorismo? Nada.
+
 Puerto Rico está en pie erguido en la grandeza de su estirpe, en la cruz de San Juan Bautista, en la grandeza de una raza que empuña sus estandartes para hacer de la humanidad la [¿?]. 
+
 Pero tenemos que afirmar eso aquí.
-Nosotros tenemos que gobernar este país aquí y el gobierno nuestro tiene que imponerse en el momento en que un déspota extranjero quiera imponerse.
-Si aquí hay un despotismo que quiere izar bandera, hay que bajarle su bandera a la fuerza de armas.
-Nosotros no tenemos que ir a las urnas para que el enemigo tenga la insolencia de contarnos uno a uno y decirnos: Tantos esclavos, tantos niños.
-No, no paséis por esa humillación.
+
+Nosotros tenemos que gobernar este país aquí y el gobierno nuestro tiene que imponerse en el momento en que un déspota extranjero quiera imponerse. Si aquí hay un despotismo que quiere izar bandera, hay que bajarle su bandera a la fuerza de armas.
+
+Nosotros no tenemos que ir a las urnas para que el enemigo tenga la insolencia de contarnos uno a uno y decirnos: Tantos esclavos, tantos niños. No, no paséis por esa humillación.
+
 Que cuando el domingo levante el dedo para señalarlos, le señalemos la cabeza con un tiro por su insolencia.
-Aquí, la lucha electoral la inventó el enemigo. ¿Por qué?
-Porque le convenía para esclavizarnos.
+
+Aquí, la lucha electoral la inventó el enemigo. ¿Por qué? Porque le convenía para esclavizarnos.
+
 La urna, la urna, la urna es el ataúd. La urna es el ataúd. La urna es el ataúd para en ella enterrar a la nación de Puerto Rico.
+
 Y nos dicen ellos aquellas palabras ominosas que los muertos entierren a sus muertos.
-Es decir, que los puertorriqueños, en el día más santo de la Iglesia, en el día más santo de nuestros corazones, que es el día de todos los muertos, el día en que todos ponemos de rodillas para orar con la memoria de nuestros padres, de nuestros abuelos, de nuestros mayores que están en la gloria del Padre eterno.
-En el Día del Supremo Recogimiento de la Patria, en ese día lo profanemos también enterrándonos vivos en una lucha electoral que nos destruya y nos lleva al sepulcro de la esclavitud.
-Aquí se ha profanado todo.
-Se ha profanado la ciudad de Ponce, el domingo de Ramos.
-Lo profanó el presidente de los Estados Unidos, Franklin Delano Roosevelt.
-Lo profanó el Gobierno de los Estados Unidos, representantes por Franklin Delano Roosevelt.
-Lo profanó el general Blanton Winship, mandado por el presidente de los Estados Unidos, Franklin Delano Roosevelt, y masacraron aquí el 21 de marzo de 1937, el domingo de Ramos, el domingo más santo de la Iglesia y más amable de la Iglesia.
-¿Qué más da que profanen también el día de todos los muertos?
-El día de las ánimas en que nosotros levantamos el espíritu en alto y decimos la madre y el padre que nos engendraron no han muerto porque eran nobles y santos. Y el Dios todopoderoso tiene que tenerlos acogidos a su santa gloria eterna.
+
+Es decir, que los puertorriqueños, en el día más santo de la Iglesia, en el día más santo de nuestros corazones, que es el día de todos los muertos, el día en que todos ponemos de rodillas para orar con la memoria de nuestros padres, de nuestros abuelos, de nuestros mayores que están en la gloria del Padre eterno. En el Día del Supremo Recogimiento de la Patria, en ese día lo profanemos también enterrándonos vivos en una lucha electoral que nos destruya y nos lleva al sepulcro de la esclavitud.
+
+Aquí se ha profanado todo. Se ha profanado la ciudad de Ponce, el domingo de Ramos.
+
+Lo profanó el presidente de los Estados Unidos, Franklin Delano Roosevelt. Lo profanó el Gobierno de los Estados Unidos, representantes por Franklin Delano Roosevelt. Lo profanó el general Blanton Winship, mandado por el presidente de los Estados Unidos, Franklin Delano Roosevelt, y masacraron aquí el 21 de marzo de 1937, el domingo de Ramos, el domingo más santo de la Iglesia y más amable de la Iglesia. ¿Qué más da que profanen también el día de todos los muertos? El día de las ánimas en que nosotros levantamos el espíritu en alto y decimos la madre y el padre que nos engendraron no han muerto porque eran nobles y santos. Y el Dios todopoderoso tiene que tenerlos acogidos a su santa gloria eterna.
+
 Aquí tiene que estar la acción directa que nos haga respetar de los yanquis.
+
 ¿Queréis resolver el problema de la esclavitud, el problema de la emancipación patria?
-Para qué esperar que el enemigo nos cuente como tantas bestias de su ganado en su finca y nos diga tantas vacas negras, tantos toros prietos, tantos caballos, tantos perros sucios.
-Tantos gatos sarnosos.
-No, no os humilléis.
-Esta es vuestra patria. Ponce es vuestra.
-Este terreno es vuestro. Estos edificios son vuestros. Todo lo que hay aquí es vuestro.
-Aquí los yanquis no tienen derecho a nada, absolutamente a nada.
-Y con su presencia y con su sombra, es un desafío al valor nuestro.
-Nos están desafiando con su presencia.
-Y esa insolencia hay que detenerla.
+
+Para qué esperar que el enemigo nos cuente como tantas bestias de su ganado en su finca y nos diga tantas vacas negras, tantos toros prietos, tantos caballos, tantos perros sucios. Tantos gatos sarnosos. No, no os humilléis.
+
+Esta es vuestra patria. Ponce es vuestra. Este terreno es vuestro. Estos edificios son vuestros. Todo lo que hay aquí es vuestro. Aquí los yanquis no tienen derecho a nada, absolutamente a nada.
+
+Y con su presencia y con su sombra, es un desafío al valor nuestro. Nos están desafiando con su presencia. Y esa insolencia hay que detenerla.
+
 La libertad es una diosa, una diosa gloriosa, y nos exige a nosotros como toda mujer bella y santa, la vida misma para que sea una ofrenda propia de su grandeza.
-Aquí se va a reunir la Convención Constituyente de la República.
-El Partido Nacionalista ha venido organizando ese espíritu para que se afirme la personalidad patria.
-No es ningún secreto. Y nosotros no tenemos ningún secreto para los yanquis.
-Nosotros decimos a los yanquis que tienen un deber y es largarse de Puerto Rico.
-A mí, los yanquis han puesto detrás de mí a toda su policía, a su detective. Los pobres muchachos lo tienen ahí en la lluvia, picados por los zancudos, lloviéndole constantemente encima. Le va a dar hasta— se va a morir tullido ahí.
-A mí me da pena.
-Pero los yanquis están perdiendo el tiempo con eso y los peleles en Puerto Rico también.
-Albizu Campos va a seguir en Puerto Rico.
-Y para nosotros, todos los actos del gobierno de Estados Unidos, incluyendo sus elecciones coloniales, carecen de ninguna importancia.
-No tienen ninguna importancia, porque los yanquis no tienen ninguna autoridad en Puerto Rico, ni los peleles yanquis tienen ninguna autoridad en Puerto Rico.
+
+Aquí se va a reunir la Convención Constituyente de la República. El Partido Nacionalista ha venido organizando ese espíritu para que se afirme la personalidad patria.
+
+No es ningún secreto. Y nosotros no tenemos ningún secreto para los yanquis. Nosotros decimos a los yanquis que tienen un deber y es largarse de Puerto Rico.
+
+A mí, los yanquis han puesto detrás de mí a toda su policía, a su detective. Los pobres muchachos lo tienen ahí en la lluvia, picados por los zancudos, lloviéndole constantemente encima. Le va a dar hasta— se va a morir tullido ahí. A mí me da pena.
+
+Pero los yanquis están perdiendo el tiempo con eso y los peleles en Puerto Rico también. Albizu Campos va a seguir en Puerto Rico.
+
+Y para nosotros, todos los actos del gobierno de Estados Unidos, incluyendo sus elecciones coloniales, carecen de ninguna importancia. No tienen ninguna importancia, porque los yanquis no tienen ninguna autoridad en Puerto Rico, ni los peleles yanquis tienen ninguna autoridad en Puerto Rico.
+
 La autoridad de Puerto Rico está en las manos exclusivas de los puertorriqueños que defiendan la independencia de Puerto Rico con el valor y el sacrificio que se necesita.
+
 Yo confío en que nadie en Puerto Rico, el Día de los Muertos, vaya a meterse en la caja de muertos de la urna de la esclavitud de su patria y profanen la memoria de sus padres y sus abuelos.
+
 Quedaos en vuestros hogares y en este momento de silencio y de rebeldía jurad empuñar las armas si fuera necesario para lanzar de nuestro suelo a todo déspota que quiera ejercer [¿?]. 
-Yo quiero deciros: aquí llega esta tarde, o ha llegado esta tarde, el cardenal Spellman.
-Ha llegado aquí el cardenal Spellman, que es el jerarca superior del catolicismo yanqui.
-Yo no puedo dejar pasar desapercibida la presencia de la bandera yanqui a la derecha de la entrada principal de la catedral donde todos nosotros fuimos bautizados y confirmados.
-La presencia de la bandera de los Estados Unidos en nuestros templos católicos los sacrílega. ¿Por qué? Un momento.
-¿Por qué?
+
+Yo quiero deciros: aquí llega esta tarde, o ha llegado esta tarde, el cardenal Spellman. Ha llegado aquí el cardenal Spellman, que es el jerarca superior del catolicismo yanqui. Yo no puedo dejar pasar desapercibida la presencia de la bandera yanqui a la derecha de la entrada principal de la catedral donde todos nosotros fuimos bautizados y confirmados. La presencia de la bandera de los Estados Unidos en nuestros templos católicos los sacrílega. ¿Por qué? 
+
+Un momento. ¿Por qué?
+
 Porque la bandera de los Estados Unidos no representa ni el catolicismo ni la cristiandad, sino que representa la vileza y la piratería y el asesinato.
+
 Yo le digo aquí, oír bien. Aquí se ha levantado o se quiere levantar una universidad con el nombre de Santa María.
-Santa María, qué nombre más dulce.
-Nombre más dulce que nuestras madres pusieron en nuestros labios.
-Santa María, salve María.
-Santa María. ¡Salve María! ¡Protégenos de estos piratas!
-Los yanquis, que no son católicos, porque el gobierno yanqui no es católico.
-Es un gobierno anticatólico, anticristiano.
+
+Santa María, qué nombre más dulce. Nombre más dulce que nuestras madres pusieron en nuestros labios. Santa María, salve María. Santa María. 
+
+¡Salve María! ¡Protégenos de estos piratas!
+
+Los yanquis, que no son católicos, porque el gobierno yanqui no es católico. Es un gobierno anticatólico, anticristiano.
+
 Ha descubierto una cosa muy importante: que puede utilizar a los católicos yanquis para embaucarnos a nosotros los católicos latinos.
+
 Y yo quiero ser justo.
+
 Y le digo aquí, que es esta tribuna santa que rodeado por las banderas de todo el mundo hispánico, que es eminentemente católico y que llevó el catolicismo a los Estados Unidos.
+
 Le digo al cardenal Spellman que medite bien el alcance de su misión en Puerto Rico y que no venga aquí a hacer el papel de los redentoristas en Puerto Rico, que todo han hecho menos que redimir a Puerto Rico, sino despojar al clero de Puerto Rico de su parroquia.
+
 Que no venga aquí.
-Yo confío en que el cardenal Spellman, en esta noche, le diga a los que se han reunido ahí a un banquete de cien dólares el cubierto.
-Les diga que lo primero que hay que respetar en Puerto Rico es la lengua hispánica, la lengua con que se alumbró al mundo en su mirar y a su grandeza.
+
+Yo confío en que el cardenal Spellman, en esta noche, le diga a los que se han reunido ahí a un banquete de cien dólares el cubierto. Les diga que lo primero que hay que respetar en Puerto Rico es la lengua hispánica, la lengua con que se alumbró al mundo en su mirar y a su grandeza.
+
 Y que la Universidad de Santa María no debe, si no deja de ser una institución sacrílega, hacer comunicados ni planilla de ingresos en el idioma inglés, aunque el idioma inglés sea el idioma del cardenal Spellman.
+
 Yo apelo al catolicismo del cardenal Spellman, porque es deber de él como católico, apostólico y romano, dar una lección aquí de su apostolado y del principado que representa en el sacro colegio de que se respete la conciencia católica de Puerto Rico, la conciencia hispánica de Puerto Rico, ¡la libertad y la independencia de Puerto Rico!
