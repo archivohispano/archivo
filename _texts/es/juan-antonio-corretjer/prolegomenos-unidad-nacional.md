@@ -16,7 +16,7 @@ collections:
   - pensamiento-politico
 ---
 
-La intención es visible a lo largo de la información. La impaciencia patriótica pretende ver, a veces, lo que hay en muchas cosas. Y la impaciencia patriótica de algunos ha querido ver en la alegada designación do otro Comité para el estudio del status político de Puerto Rico por mister Truman, la Inminencia do nuestra final liberación del coloniaje.
+La intención es visible a lo largo de la información. La impaciencia patriótica pretende ver, a veces, lo que hay en muchas cosas. Y la impaciencia patriótica de algunos ha querido ver en la alegada designación de otro Comité para el estudio del status político de Puerto Rico por mister Truman, la Inminencia de nuestra final liberación del coloniaje.
 
 Con 22 años de militancia por la independencia patria; con el largo aprendizaje de muchos desvelos sobre el estudio de los movimientos de liberación nacional y del imperialismo; con jibarísima modestia advierto a mis compatriotas: nadie siembre y nadie ponga esperanzas en la tiranía. Y de naturaleza tiránica es toda intervención extranjera.
 
