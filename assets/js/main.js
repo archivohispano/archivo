@@ -39,6 +39,12 @@ function toggleLanguage() {
         '/en/autores/juan-antonio-corretjer': '/es/autores/juan-antonio-corretjer',
         '/es/textos/juan-antonio-corretjer/prolegomenos-unidad-nacional': '/en/texts/juan-antonio-corretjer/prolegomena-national-unity',
         '/en/texts/juan-antonio-corretjer/prolegomena-national-unity': '/es/textos/juan-antonio-corretjer/prolegomenos-unidad-nacional',
+
+        // Eugenio Font Suarez
+        '/es/autores/eugenio-font-suarez': '/en/autores/eugenio-font-suarez',
+        '/en/autores/eugenio-font-suarez': '/es/autores/eugenio-font-suarez',
+        '/es/textos/eugenio-font-suarez/el-gran-dilema': '/en/texts/eugenio-font-suarez/the-great-dilemma',
+        '/en/texts/eugenio-font-suarez/the-great-dilemma': '/es/textos/eugenio-font-suarez/el-gran-dilema',
         
         // General pages
         '/es/autores': '/en/autores',
