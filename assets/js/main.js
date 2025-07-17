@@ -39,6 +39,8 @@ function toggleLanguage() {
         '/en/autores/juan-antonio-corretjer': '/es/autores/juan-antonio-corretjer',
         '/es/textos/juan-antonio-corretjer/prolegomenos-unidad-nacional': '/en/texts/juan-antonio-corretjer/prolegomena-national-unity',
         '/en/texts/juan-antonio-corretjer/prolegomena-national-unity': '/es/textos/juan-antonio-corretjer/prolegomenos-unidad-nacional',
+        '/es/textos/juan-antonio-corretjer/el-heroe': '/en/texts/juan-antonio-corretjer/the-hero',
+        '/en/texts/juan-antonio-corretjer/the-hero': '/es/textos/juan-antonio-corretjer/el-heroe',
 
         // Eugenio Font Suarez
         '/es/autores/eugenio-font-suarez': '/en/autores/eugenio-font-suarez',
