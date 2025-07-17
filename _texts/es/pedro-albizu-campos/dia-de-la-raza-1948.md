@@ -285,7 +285,7 @@ Nosotros tenemos que gobernar este país aquí y el gobierno nuestro tiene que i
 
 Nosotros no tenemos que ir a las urnas para que el enemigo tenga la insolencia de contarnos uno a uno y decirnos: Tantos esclavos, tantos niños. No, no paséis por esa humillación.
 
-Que cuando el domingo levante el dedo para señalarlos, le señalemos la cabeza con un tiro por su insolencia.
+Que cuando el enemigo levante el dedo para señalarlos, le señalemos la cabeza con un tiro por su insolencia.
 
 Aquí, la lucha electoral la inventó el enemigo. ¿Por qué? Porque le convenía para esclavizarnos.
 
