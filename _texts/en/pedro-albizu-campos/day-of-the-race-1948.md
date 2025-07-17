@@ -288,7 +288,7 @@ We have to govern this country here and our government has to impose itself the 
 
 We do not have to go to the polls for the enemy to have the insolence to count us one by one and tell us: So many slaves, so many children. No, do not go through that humiliation.
 
-When on Sunday he raises his finger to point at them, let us point at his head with a bullet for his insolence.
+When the enmy raises his finger to point at us, let us point with a bullet at his head for his insolence.
 
 Here, the electoral struggle was invented by the enemy. Why? Because it suited him to enslave us.
 
