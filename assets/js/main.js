@@ -19,13 +19,28 @@ function toggleLanguage() {
     const currentPath = window.location.pathname;
     let newPath = currentPath;
     
-    // Remove trailing slash if present
+    // Remove trailing slash if present (except for root)
     if (currentPath.endsWith('/') && currentPath !== '/') {
         newPath = currentPath.slice(0, -1);
     }
     
+    // Handle homepage special case
+    if (newPath === '/' || newPath === '') {
+        window.location.href = '/en/';
+        return;
+    }
+    
+    if (newPath === '/en' || newPath === '/en/') {
+        window.location.href = '/';
+        return;
+    }
+    
     // Specific mappings for texts that have different URLs
     const pathMappings = {
+        // Homepage
+        '/': '/en/',
+        '/en': '/',
+        
         // Albizu Campos
         '/es/textos/pedro-albizu-campos/concepto-de-la-raza': '/en/texts/pedro-albizu-campos/concept-of-race',
         '/en/texts/pedro-albizu-campos/concept-of-race': '/es/textos/pedro-albizu-campos/concepto-de-la-raza',
@@ -41,10 +56,10 @@ function toggleLanguage() {
         '/en/texts/juan-antonio-corretjer/prolegomena-national-unity': '/es/textos/juan-antonio-corretjer/prolegomenos-unidad-nacional',
         '/es/textos/juan-antonio-corretjer/el-heroe': '/en/texts/juan-antonio-corretjer/the-hero',
         '/en/texts/juan-antonio-corretjer/the-hero': '/es/textos/juan-antonio-corretjer/el-heroe',
-		'/es/textos/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo': '/en/texts/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo',
-		'/en/texts/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo': '/es/textos/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo',
-       
-	   // Eugenio Font Suarez
+        '/es/textos/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo': '/en/texts/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo',
+        '/en/texts/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo': '/es/textos/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo',
+        
+        // Eugenio Font Suárez
         '/es/autores/eugenio-font-suarez': '/en/autores/eugenio-font-suarez',
         '/en/autores/eugenio-font-suarez': '/es/autores/eugenio-font-suarez',
         '/es/textos/eugenio-font-suarez/el-gran-dilema': '/en/texts/eugenio-font-suarez/the-great-dilemma',
@@ -57,10 +72,17 @@ function toggleLanguage() {
         '/en/paises': '/es/paises',
         '/es/paises/puerto-rico': '/en/paises/puerto-rico',
         '/en/paises/puerto-rico': '/es/paises/puerto-rico'
-		
-		'/': '/en/',
-		'/en/': '/',
-    };
+    }
+    
+    // Check if current path has a specific mapping
+    if (pathMappings[newPath]) {
+        window.location.href = pathMappings[newPath];
+        return;
+    }
+    
+    // If no specific mapping found, show an alert
+    alert('Translation not available for this page / Traducción no disponible para esta página');
+}
     
     // Check if current path has a specific mapping
     if (pathMappings[newPath]) {
