@@ -41,6 +41,8 @@ function toggleLanguage() {
         '/en/texts/juan-antonio-corretjer/prolegomena-national-unity': '/es/textos/juan-antonio-corretjer/prolegomenos-unidad-nacional',
         '/es/textos/juan-antonio-corretjer/el-heroe': '/en/texts/juan-antonio-corretjer/the-hero',
         '/en/texts/juan-antonio-corretjer/the-hero': '/es/textos/juan-antonio-corretjer/el-heroe',
+		'/es/textos/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo': '/en/texts/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo',
+		'/en/texts/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo': '/es/textos/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo',
 
         // Eugenio Font Suarez
         '/es/autores/eugenio-font-suarez': '/en/autores/eugenio-font-suarez',
