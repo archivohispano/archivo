@@ -72,7 +72,7 @@ function toggleLanguage() {
         '/en/paises': '/es/paises',
         '/es/paises/puerto-rico': '/en/paises/puerto-rico',
         '/en/paises/puerto-rico': '/es/paises/puerto-rico'
-    }
+    };  // <-- Added semicolon here
     
     // Check if current path has a specific mapping
     if (pathMappings[newPath]) {
@@ -82,23 +82,7 @@ function toggleLanguage() {
     
     // If no specific mapping found, show an alert
     alert('Translation not available for this page / Traducción no disponible para esta página');
-}
-    
-    // Check if current path has a specific mapping
-    if (pathMappings[newPath]) {
-        window.location.href = pathMappings[newPath];
-        return;
-    }
-    
-    // For homepage
-    if (newPath === '/' || newPath === '') {
-        alert('English version coming soon / Versión en inglés próximamente');
-        return;
-    }
-    
-    // If no specific mapping found, show an alert
-    alert('Translation not available for this page / Traducción no disponible para esta página');
-}
+}  
 
 // Font size control (for text pages)
 let currentFontSize = 1.1;
