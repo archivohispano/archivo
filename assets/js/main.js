@@ -43,8 +43,8 @@ function toggleLanguage() {
         '/en/texts/juan-antonio-corretjer/the-hero': '/es/textos/juan-antonio-corretjer/el-heroe',
 		'/es/textos/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo': '/en/texts/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo',
 		'/en/texts/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo': '/es/textos/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo',
-
-        // Eugenio Font Suarez
+       
+	   // Eugenio Font Suarez
         '/es/autores/eugenio-font-suarez': '/en/autores/eugenio-font-suarez',
         '/en/autores/eugenio-font-suarez': '/es/autores/eugenio-font-suarez',
         '/es/textos/eugenio-font-suarez/el-gran-dilema': '/en/texts/eugenio-font-suarez/the-great-dilemma',
@@ -57,6 +57,9 @@ function toggleLanguage() {
         '/en/paises': '/es/paises',
         '/es/paises/puerto-rico': '/en/paises/puerto-rico',
         '/en/paises/puerto-rico': '/es/paises/puerto-rico'
+		
+		'/': '/en/',
+		'/en/': '/',
     };
     
     // Check if current path has a specific mapping
