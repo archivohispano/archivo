@@ -65,7 +65,7 @@ function toggleLanguage() {
         '/es/autores/eugenio-font-suarez': '/en/autores/eugenio-font-suarez',
         '/en/autores/eugenio-font-suarez': '/es/autores/eugenio-font-suarez',
         '/es/textos/eugenio-font-suarez/el-gran-dilema': '/en/texts/eugenio-font-suarez/the-great-dilemma',
-        '/en/texts/eugenio-font-suarez/the-great-dilemma': '/es/textos/eugenio-font-suarez/el-gran-dilema',tags
+        '/en/texts/eugenio-font-suarez/the-great-dilemma': '/es/textos/eugenio-font-suarez/el-gran-dilema',
         
         // General pages
         '/es/autores': '/en/autores',
