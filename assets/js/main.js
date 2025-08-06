@@ -48,6 +48,8 @@ function toggleLanguage() {
         '/en/autores/pedro-albizu-campos': '/es/autores/pedro-albizu-campos',
         '/es/textos/pedro-albizu-campos/dia-de-la-raza-1948': '/en/texts/pedro-albizu-campos/day-of-the-race-1948',
         '/en/texts/pedro-albizu-campos/day-of-the-race-1948': '/es/textos/pedro-albizu-campos/dia-de-la-raza-1948',
+		'/es/textos/pedro-albizu-campos/oracion': '/en/texts/pedro-albizu-campos/prayer',
+		'/en/texts/pedro-albizu-campos/prayer': '/es/textos/pedro-albizu-campos/oracion',
         
         // Juan Antonio Corretjer
         '/es/autores/juan-antonio-corretjer': '/en/autores/juan-antonio-corretjer',
@@ -63,7 +65,7 @@ function toggleLanguage() {
         '/es/autores/eugenio-font-suarez': '/en/autores/eugenio-font-suarez',
         '/en/autores/eugenio-font-suarez': '/es/autores/eugenio-font-suarez',
         '/es/textos/eugenio-font-suarez/el-gran-dilema': '/en/texts/eugenio-font-suarez/the-great-dilemma',
-        '/en/texts/eugenio-font-suarez/the-great-dilemma': '/es/textos/eugenio-font-suarez/el-gran-dilema',
+        '/en/texts/eugenio-font-suarez/the-great-dilemma': '/es/textos/eugenio-font-suarez/el-gran-dilema',tags
         
         // General pages
         '/es/autores': '/en/autores',
