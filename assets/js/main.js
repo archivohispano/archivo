@@ -35,56 +35,49 @@ function toggleLanguage() {
         return;
     }
     
-    // Specific mappings for texts that have different URLs
-    const pathMappings = {
-        // Homepage
-        '/': '/en/',
-        '/en': '/',
-        
-        // Albizu Campos
-        '/es/textos/pedro-albizu-campos/concepto-de-la-raza': '/en/texts/pedro-albizu-campos/concept-of-race',
-        '/en/texts/pedro-albizu-campos/concept-of-race': '/es/textos/pedro-albizu-campos/concepto-de-la-raza',
-        '/es/autores/pedro-albizu-campos': '/en/autores/pedro-albizu-campos',
-        '/en/autores/pedro-albizu-campos': '/es/autores/pedro-albizu-campos',
-        '/es/textos/pedro-albizu-campos/dia-de-la-raza-1948': '/en/texts/pedro-albizu-campos/day-of-the-race-1948',
-        '/en/texts/pedro-albizu-campos/day-of-the-race-1948': '/es/textos/pedro-albizu-campos/dia-de-la-raza-1948',
-		'/es/textos/pedro-albizu-campos/oracion': '/en/texts/pedro-albizu-campos/prayer',
-		'/en/texts/pedro-albizu-campos/prayer': '/es/textos/pedro-albizu-campos/oracion',
-        
-        // Juan Antonio Corretjer
-        '/es/autores/juan-antonio-corretjer': '/en/autores/juan-antonio-corretjer',
-        '/en/autores/juan-antonio-corretjer': '/es/autores/juan-antonio-corretjer',
-        '/es/textos/juan-antonio-corretjer/prolegomenos-unidad-nacional': '/en/texts/juan-antonio-corretjer/prolegomena-national-unity',
-        '/en/texts/juan-antonio-corretjer/prolegomena-national-unity': '/es/textos/juan-antonio-corretjer/prolegomenos-unidad-nacional',
-        '/es/textos/juan-antonio-corretjer/el-heroe': '/en/texts/juan-antonio-corretjer/the-hero',
-        '/en/texts/juan-antonio-corretjer/the-hero': '/es/textos/juan-antonio-corretjer/el-heroe',
-        '/es/textos/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo': '/en/texts/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo',
-        '/en/texts/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo': '/es/textos/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo',
-        
-        // Eugenio Font Suárez
-        '/es/autores/eugenio-font-suarez': '/en/autores/eugenio-font-suarez',
-        '/en/autores/eugenio-font-suarez': '/es/autores/eugenio-font-suarez',
-        '/es/textos/eugenio-font-suarez/el-gran-dilema': '/en/texts/eugenio-font-suarez/the-great-dilemma',
-        '/en/texts/eugenio-font-suarez/the-great-dilemma': '/es/textos/eugenio-font-suarez/el-gran-dilema',
-        
-        // General pages
-        '/es/autores': '/en/autores',
-        '/en/autores': '/es/autores',
-        '/es/paises': '/en/paises',
-        '/en/paises': '/es/paises',
-        '/es/paises/puerto-rico': '/en/paises/puerto-rico',
-        '/en/paises/puerto-rico': '/es/paises/puerto-rico'
-    };  // <-- Added semicolon here
+   // Specific mappings for texts that have different URLs
+const pathMappings = {
+    // Homepage
+    '/': '/en/',
+    '/en': '/',
     
-    // Check if current path has a specific mapping
-    if (pathMappings[newPath]) {
-        window.location.href = pathMappings[newPath];
-        return;
-    }
+    // Albizu Campos
+    '/es/textos/pedro-albizu-campos/concepto-de-la-raza': '/en/texts/pedro-albizu-campos/concept-of-race',
+    '/en/texts/pedro-albizu-campos/concept-of-race': '/es/textos/pedro-albizu-campos/concepto-de-la-raza',
+    '/es/autores/pedro-albizu-campos': '/en/autores/pedro-albizu-campos',
+    '/en/autores/pedro-albizu-campos': '/es/autores/pedro-albizu-campos',
+    '/es/textos/pedro-albizu-campos/dia-de-la-raza-1948': '/en/texts/pedro-albizu-campos/day-of-the-race-1948',
+    '/en/texts/pedro-albizu-campos/day-of-the-race-1948': '/es/textos/pedro-albizu-campos/dia-de-la-raza-1948',
+    '/es/textos/pedro-albizu-campos/oracion': '/en/texts/pedro-albizu-campos/prayer',
+    '/en/texts/pedro-albizu-campos/prayer': '/es/textos/pedro-albizu-campos/oracion',
     
-    // If no specific mapping found, show an alert
-    alert('Translation not available for this page / Traducción no disponible para esta página');
-}  
+    // Juan Antonio Corretjer
+    '/es/autores/juan-antonio-corretjer': '/en/autores/juan-antonio-corretjer',
+    '/en/autores/juan-antonio-corretjer': '/es/autores/juan-antonio-corretjer',
+    '/es/textos/juan-antonio-corretjer/prolegomenos-unidad-nacional': '/en/texts/juan-antonio-corretjer/prolegomena-national-unity',
+    '/en/texts/juan-antonio-corretjer/prolegomena-national-unity': '/es/textos/juan-antonio-corretjer/prolegomenos-unidad-nacional',
+    '/es/textos/juan-antonio-corretjer/el-heroe': '/en/texts/juan-antonio-corretjer/the-hero',
+    '/en/texts/juan-antonio-corretjer/the-hero': '/es/textos/juan-antonio-corretjer/el-heroe',
+    '/es/textos/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo': '/en/texts/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo',
+    '/en/texts/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo': '/es/textos/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo',
+    
+    // Eugenio Font Suárez
+    '/es/autores/eugenio-font-suarez': '/en/autores/eugenio-font-suarez',
+    '/en/autores/eugenio-font-suarez': '/es/autores/eugenio-font-suarez',
+    '/es/textos/eugenio-font-suarez/el-gran-dilema': '/en/texts/eugenio-font-suarez/the-great-dilemma',
+    '/en/texts/eugenio-font-suarez/the-great-dilemma': '/es/textos/eugenio-font-suarez/el-gran-dilema',
+    
+    // General pages
+    '/es/autores': '/en/autores',
+    '/en/autores': '/es/autores',
+    '/es/paises': '/en/paises',
+    '/en/paises': '/es/paises',
+    '/es/paises/puerto-rico': '/en/paises/puerto-rico',
+    '/en/paises/puerto-rico': '/es/paises/puerto-rico'
+};
+
+console.log('Current path:', newPath);
+console.log('Mapping found:', pathMappings[newPath]);
 
 // Font size control (for text pages)
 let currentFontSize = 1.1;
