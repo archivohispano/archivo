@@ -79,6 +79,16 @@ const pathMappings = {
 console.log('Current path:', newPath);
 console.log('Mapping found:', pathMappings[newPath]);
 
+// Check if current path has a specific mapping
+    if (pathMappings[newPath]) {
+        window.location.href = pathMappings[newPath];
+        return;
+    }
+    
+    // If no specific mapping found, show an alert
+    alert('Translation not available for this page / Traducción no disponible para esta página');
+}
+
 // Font size control (for text pages)
 let currentFontSize = 1.1;
 function changeFontSize(delta) {
